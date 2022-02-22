@@ -1,0 +1,664 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal apology, or, An answer to the rebels plea wherein the most noted anti-monarchial tenents, first, published by Doleman the Jesuite, to promote a bill of exclusion against King James, secondly, practised by Bradshaw and the regicides in the actual murder of King Charles the 1st, thirdly, republished by Sidney and the associators to depose and murder His present Majesty, are distinctly consider'd : with a parallel between Doleman, Bradshaw, Sidney and other of the true-Protestant party.</title>
+            <author>Assheton, William, 1641-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26069</idno>
+            <idno type="STC">Wing A4038</idno>
+            <idno type="STC">ESTC R648</idno>
+            <idno type="EEBO-CITATION">12686337</idno>
+            <idno type="OCLC">ocm 12686337</idno>
+            <idno type="VID">65774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 972:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal apology, or, An answer to the rebels plea wherein the most noted anti-monarchial tenents, first, published by Doleman the Jesuite, to promote a bill of exclusion against King James, secondly, practised by Bradshaw and the regicides in the actual murder of King Charles the 1st, thirdly, republished by Sidney and the associators to depose and murder His present Majesty, are distinctly consider'd : with a parallel between Doleman, Bradshaw, Sidney and other of the true-Protestant party.</title>
+                  <author>Assheton, William, 1641-1711.</author>
+               </titleStmt>
+               <extent>[8], 59, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.B. for Robert Clavel, and are to sold by Randolph Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Table of contents: p. [7]-[8]</note>
+                  <note>Attributed to William Assheton. cf. BM.</note>
+                  <note>R. Doleman is a pseudonym for Robert Parsons.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bradshaw, John, 1602-1659.</term>
+               <term>Sidney, Algernon, 1622-1683.</term>
+               <term>Parsons, Robert, 1546-1610.</term>
+               <term>Divine right of kings.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65774:1"/>
+            <pb facs="tcp:65774:1" rendition="simple:additions"/>
+            <p>THE Royal Apology OR, AN ANSWER TO THE <hi>Rebels Plea:</hi> WHEREIN, The moſt Noted <hi>Anti-Monarchical TENENTS, Firſt,</hi> Publiſhed by DOLEMAN the <hi>Jeſuite,</hi> to pro<g ref="char:EOLhyphen"/>mote a Bill of EXCLUSION againſt <hi>King JAMES. Secondly,</hi> Practiſed by BRADSHAW and the <hi>Regi<g ref="char:EOLhyphen"/>cides</hi> in the actual Murder of <hi>King CHARLES</hi> the <hi>1ſt. Thirdly,</hi> Republiſhed by SIDNEY and the <hi>Aſſociators</hi> to <hi>Depoſe</hi> and <hi>Murder</hi> his Preſent <hi>MAJESTY,</hi> Are diſtinctly conſider'd. With a PARALLEL between DOLEMAN, BRADSHAW, SIDNEY and other of the <hi>True-Proteſtant</hi> PARTY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. B.</hi> for <hi>Robert Clavel,</hi> and are to be ſold by <hi>Randolph Taylor,</hi> near <hi>Stationers-Hall.</hi> 1684.</p>
+            <pb facs="tcp:65774:2" rendition="simple:additions"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65774:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>IN the Year 1594. the Je<g ref="char:EOLhyphen"/>ſuit PARSONS publiſhed <hi>a Conference</hi> under the Name of <hi>DOLEMAN.</hi> The Deſign of which <hi>Pamphlet,</hi> as e<g ref="char:EOLhyphen"/>very one knows, was to promote <hi>a Bill of Excluſion</hi> againſt King JAMES.</p>
+            <p>And though the Jeſuites malice was herein defeated, as to the Per<g ref="char:EOLhyphen"/>ſon of that <hi>King;</hi> yet how much it influenc'd the Sufferings of his <hi>late Majesty,</hi> is a ſad ſtory to re<g ref="char:EOLhyphen"/>peat. For he who ſhall peruſe the many virulent <hi>Libels,</hi> which firſt occaſion'd, and then fomented that
+<pb facs="tcp:65774:3"/> unnatural <hi>Rebellion;</hi> he will ea<g ref="char:EOLhyphen"/>ſily be inſtructed how that <hi>Confe<g ref="char:EOLhyphen"/>rence</hi> was Tranſcribed and Tran<g ref="char:EOLhyphen"/>ſproſed by the <hi>Patrons</hi> of the <hi>Fa<g ref="char:EOLhyphen"/>ction:</hi> And to ſpeak in our Mo<g ref="char:EOLhyphen"/>dern Language, he cannot but obſerve, That the <hi>Popiſh DOLE<g ref="char:EOLhyphen"/>MAN</hi> is the Oracle of the <hi>TR<g ref="char:V">Ʋ</g>E-PROTESTANT</hi> Party.</p>
+            <p>Now that this may not be re<g ref="char:EOLhyphen"/>jected as a ſlandering Deſign, on<g ref="char:EOLhyphen"/>ly to make them odious to Au<g ref="char:EOLhyphen"/>thority, as is commonly Object<g ref="char:EOLhyphen"/>ed; I have here drawn for the Readers ſatisfaction, a ſhort PA<g ref="char:EOLhyphen"/>RALLEL between <hi>Doleman, Bradſhaw, Sidney</hi> and ſome o<g ref="char:EOLhyphen"/>thers. Upon peruſal of which it will plainly appear, that the
+<pb facs="tcp:65774:3"/> Jeſuites Principles, as managed by <hi>Bradſhaw</hi> and the <hi>Regicides,</hi> did cut off the Head of King CHARLES the firſt.</p>
+            <p>And ſince the ſame Principles have been tranſcribed by the <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> of the <hi>ASSOCIATION;</hi> we have juſt reaſon to ſuſpect the fame <hi>Practices</hi> likewiſe: And that thoſe who defend the Murder of King <hi>CHARLES</hi> the firſt, would doubtleſs, <hi>if they had Power in their Hands,</hi> Depoſe and Mur<g ref="char:EOLhyphen"/>der King <hi>CHARLES</hi> the Second.</p>
+            <p>If any <hi>Republican</hi> ſhall think fit to doubt that the following Diſ<g ref="char:EOLhyphen"/>courſe is either <hi>Partial</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>ncon<g ref="char:EOLhyphen"/>concluding, i. e.</hi> that I have either ſaid ſomething that is <hi>falſe,</hi> or elſe have omitted in any Inſtance, the
+<pb facs="tcp:65774:4"/> very <hi>Strength</hi> of their <hi>Cauſe,</hi> let him make known his Grievance. And I do here faithfully promiſe, upon ſuch notice given, I will (through Divine Aſſiſtance) en<g ref="char:EOLhyphen"/>deavour his Satisfaction.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:65774:4"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>THe Occaſion of this Treatiſe, <hi>Pag.</hi> 1.</item>
+               <item>
+                  <hi>Which Conſiſts</hi>
+               </item>
+               <item>Of an Objection <hi>p.</hi> 3. and its An<g ref="char:EOLhyphen"/>ſwer <hi>p.</hi> 5.</item>
+               <item>
+                  <hi>Containing theſe Particulars,</hi> viz.</item>
+               <item>The Government of <hi>England</hi> not a mixt Monarchy <hi>p.</hi> 6.</item>
+               <item>The King not one of the <hi>three</hi> E<g ref="char:EOLhyphen"/>ſtates <hi>p.</hi> 16.</item>
+               <item>In what ſence the King of <hi>England</hi> is an Abſolute Monarch <hi>p.</hi> 19.</item>
+               <item>And how he is Limited <hi>p.</hi> 43.</item>
+               <item>That known ſaying of BRAC<g ref="char:EOLhyphen"/>TON <hi>Lex facit Regem</hi> how to be underſtood <hi>p.</hi> 20.</item>
+               <item>That other controverted Paſſage, <hi>Rex habet Superiorem, Deum</hi>
+                  <pb facs="tcp:65774:5"/> 
+                  <hi>&amp; Legem, etiam &amp; Curiam,</hi> largely conſidered <hi>p.</hi> 25 ad <hi>p.</hi> 37.</item>
+               <item>Of the Coronation Oath <hi>p.</hi> 38.</item>
+               <item>Of the Kings Prerogative <hi>p.</hi> 45.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65774:5"/>
+            <head>THE <hi>Royal Apology:</hi> OR, AN ANSWER TO THE <hi>Rebels PLEA.</hi>
+            </head>
+            <p>ALthough the <hi>Kings</hi> Title to his <hi>Crown</hi> and Dignity, together with his juſt Right and Authority, <hi>over all Perſons and in all Cauſes,</hi> are beyond Ex<g ref="char:EOLhyphen"/>ception eſtabliſh'd, by the Ordinance of God, and the known Laws and Conſtitu<g ref="char:EOLhyphen"/>tions of theſe Kingdoms; yet ſo far hath <hi>Prejudice,</hi> or ſomething worſe, prevail'd with ſome Men (and thoſe not of the mea<g ref="char:EOLhyphen"/>neſt Rank) as to ſuffer themſelves to be led into a Belief.</p>
+            <pb n="2" facs="tcp:65774:6"/>
+            <p>
+               <hi>That the Original of all Government is from the People;</hi> and that the Power which <hi>Kings</hi> and Princes have, was derived unto them from the <hi>People</hi> by way of <hi>Pact</hi> or <hi>Contract.</hi> Particularly, That the King of <hi>England</hi> (as appears from his <hi>Coronation-Oath)</hi> having ſolemnly engaged to his Peo<g ref="char:EOLhyphen"/>ple, to maintain Religion, to execute Juſtice, and to keep the Laws and right<g ref="char:EOLhyphen"/>ful Cuſtoms of the Kingdom; upon theſe Conditions was admitted to the Kingly Power. The which Conditions if he ſhall omit to obſerve (and of this, they them<g ref="char:EOLhyphen"/>ſelves will be Judges) they then fancy, that he hath forfeited his <hi>Crown;</hi> and that the <hi>People</hi> who firſt made him <hi>King</hi> may, by their <hi>Repreſentatives</hi> in Parliament, de<g ref="char:EOLhyphen"/>throne and <hi>Depoſe</hi> him.</p>
+            <p>That this is the Scheme of ſome Mens Policy, the many Treaſonable Papers, ſuch as, <hi>The Aſſociation, Vox Populi, Appeal to the City, Coll.</hi> SIDNEY'S Papers, <hi>&amp;c.</hi> to<g ref="char:EOLhyphen"/>gether with the late <hi>horrid Conſpiracy</hi> groun<g ref="char:EOLhyphen"/>ded thereupon, do ſufficiently demon<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>And therefore I hope it will be no un<g ref="char:EOLhyphen"/>ſeaſonable <hi>Undertaking;</hi> but may, through
+<pb n="3" facs="tcp:65774:6"/> Gods Bleſſing, contribute ſomewhat to ſe<g ref="char:EOLhyphen"/>cure the King's <hi>Liege-People</hi> in their due O<g ref="char:EOLhyphen"/>bedience, whilſt I endeavour to evince the Falſeneſs and deſtructive Conſequences of theſe <hi>Anti-monarchical</hi> Principles.</p>
+            <p>Which that I may the more effectually, and with the greater clearneſs perform, I ſhall firſt lay down the utmoſt Strength of their Cauſe in one intire <hi>Objection,</hi> and then endeavour their ſatisfaction in the fol<g ref="char:EOLhyphen"/>lowing <hi>Anſwer.</hi>
+            </p>
+            <div type="object">
+               <head>OBJECTION.</head>
+               <p>THE Government of England is a mixt Monarchy, conſiſting of <hi rend="blackletterType">Three Eſtates</hi> King, Lords and Commons: And therefore the King of <hi>England</hi> is not an Abſolute, but a li<g ref="char:EOLhyphen"/>mited Monarch; and as Such is to govern by, and according to, the Laws of the Land, and not o<g ref="char:EOLhyphen"/>therwiſe: And by the Oath which he hath taken at his Coronation, he is obliged to uſe the Power, Truſt and Office then committed to him, for the Good and Benefit of the <hi>People,</hi> and for the preſervation of their Rights and Liber<g ref="char:EOLhyphen"/>ties.</p>
+               <pb n="4" facs="tcp:65774:7"/>
+               <p>Now if the King, thus entruſted to keep the <hi>Laws,</hi> and preſerve <hi>Religion,</hi> ſhould be guil<g ref="char:EOLhyphen"/>ty of a wicked Deſign, to ſubvert our <hi>Laws,</hi> and deſtroy our <hi>Religion,</hi> by introducing an ar<g ref="char:EOLhyphen"/>bitrary, Tyrannical Government; he muſt then underſtand, that he is but an Officer of Truſt: And the <hi>Parliament</hi> of <hi>England</hi> (the Repre<g ref="char:EOLhyphen"/>ſentatives of the <hi>People,</hi> in whom all Power doth originally reſide) they are to take order for the A<g ref="char:EOLhyphen"/>nimadverſion and Puniſhment of ſuch an offend<g ref="char:EOLhyphen"/>ing Governor. <hi>Parliaments</hi> were ordain'd to reſtrain the exorbitant Power of <hi>Kings,</hi> and to redreſs the Grievances of the <hi>People.</hi>
+               </p>
+               <p>It is very true, what ſome have ſaid, <hi>Rex non habet parem in Regno.</hi> But this is to be underſtood in a limited Senſe: For though <hi>ma<g ref="char:EOLhyphen"/>jor ſingulis,</hi> yet he is <hi>minor univerſis.</hi> This we know to be <hi>Law,</hi> from that famous <hi>Lawyer BRACTION: Rex habet Superiorem, Deum &amp; Legem, etiam &amp; Curiam.</hi>
+               </p>
+               <p>
+                  <hi>Which is thus Interpreted by Mr. SIDNEY.</hi>
+               </p>
+               <p>For this Reaſon <hi>Bracton</hi> ſaith; That the <hi>King</hi> hath Three Superiors, to wit, <hi>Deum, Legem &amp; Parliamentum;</hi> That is, The Power originally in the <hi>People</hi> of <hi>England,</hi> is delegated unto the <hi>Parliament. SIDNEY'S</hi> Tryal, pag. 23.</p>
+               <pb n="5" facs="tcp:65774:7"/>
+               <p>
+                  <hi>This is, as I conceive, the</hi> Sum <hi>of all that</hi> hath <hi>been, and the utmoſt of what, I ſuppoſe,</hi> can <hi>be ſaid in this matter. To which I return this</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>THAT this Phraſe a <hi>mixt Monarchy,</hi> though ſomewhat frequent in the Mouths of theſe Men, is yet no very plain or intelligible Expreſſion.</p>
+               <p>For, if by a <hi>mixt Monarchy,</hi> they deſign ſuch a Government, wherein though the <hi>Supream</hi> Power may reſide in one <hi>ſingle</hi> Perſon, yet the Monarch is ſo limited in the Execution of that Power, that he cannot legally perform ſeveral Acts of Soveraignty without the Concurrence of his Subjects (as with us here in <hi>England,</hi> the King neither makes LAWS, nor doth raiſe <hi>Taxes</hi> without his <hi>Parliament)</hi> If this be the utmoſt they deſign, when they call <hi>England</hi> a <hi>mixt Monarchy;</hi> then, though the Expreſſion is very improper (an <hi>arrand Bull,</hi> a flat Contradiction <hi>in adjecto)</hi> yet where we are agreed in the <hi>Thing,</hi> we ſhall not contend about <hi>VVords;</hi> but may ſafely
+<pb n="6" facs="tcp:65774:8"/> grant, that in this Senſe, as now explain'd, <hi>The Government of England is a mixt Mo<g ref="char:EOLhyphen"/>narchy.</hi>
+               </p>
+               <p>But if by a <hi>mixt</hi> they denote ſuch a <hi>Monarchy,</hi> wherein though the Style and Title of King, together with ſome Ce<g ref="char:EOLhyphen"/>remonious Appendices of Royalty, as <hi>Cap</hi> and <hi>Knee, Guards,</hi> &amp;c. are indeed inve<g ref="char:EOLhyphen"/>ſted in One ſingle Perſon, yet the <hi>Supreme Power</hi> and <hi>Soveraignty</hi> is not ſolely and in<g ref="char:EOLhyphen"/>tirely in the <hi>Monarch,</hi> excluſively to all others (as with us here in <hi>England,</hi> ſay theſe Men, the Soveraignty by way of <hi>Coordination,</hi> is partly in the <hi>King,</hi> partly in the <hi>Lords,</hi> and partly in the <hi>Commons,</hi> and for this reaſon they are ſtyled the <hi rend="blackletterType">Three Eſtates</hi> of the Kingdom) if this be their Notion of a <hi>mixt Monarchy</hi> (as moſt plain<g ref="char:EOLhyphen"/>ly it is, if <hi>Actions</hi> may interpret <hi>Intentions)</hi> it is then not only falſe and abſurd, but dangerous and deſtructive. And there<g ref="char:EOLhyphen"/>fore in this Senſe we do peremptorily de<g ref="char:EOLhyphen"/>ny; <hi>That the Government of England is a mixt Monarchy.</hi>
+               </p>
+               <p>For, <hi>The</hi> Supreme Power <hi>is ſolely in the</hi> King; <hi>and conſequently the</hi> King <hi>is not, by way of Coordination, One of the <hi rend="blackletterType">Three Eſtates,</hi>
+                  </hi>
+                  <pb n="7" facs="tcp:65774:8"/> 
+                  <hi>but the</hi> HEAD <hi>and</hi> Soveraign <hi>of them all.</hi>
+               </p>
+               <p>In order to his Conviction, the <hi>Diſſent<g ref="char:EOLhyphen"/>ing Republican,</hi> who denyes this Truth, may pleaſe to conſider,</p>
+               <p>That he who ſhall deſire to inform himſelf rightly, where the <hi>Supreme</hi> Pow<g ref="char:EOLhyphen"/>er in any <hi>Government</hi> is plac'd; as alſo by whom, how and how far ſuch <hi>Power</hi> hath from time to time, been either <hi>exercis'd</hi> or <hi>reſtrain'd;</hi> he muſt of neceſſity have re<g ref="char:EOLhyphen"/>courſe to the <hi>Publick Laws</hi> and <hi>Conſtitutions</hi> of ſuch Government. Particularly here in <hi>England,</hi> he who deſigns to be truly in<g ref="char:EOLhyphen"/>ſtructed in this matter; he muſt not re<g ref="char:EOLhyphen"/>ceive his notice from the Diſcourſes of <hi>private</hi> men (which are many times fallaci<g ref="char:EOLhyphen"/>ous, partial and uncertain) but he ought to conſult the Known Laws and Statutes thoſe <hi>Authentick Records</hi> of the King<g ref="char:EOLhyphen"/>dom.</p>
+               <p>Now the <hi>Oath of Supremacy,</hi> eſtabliſh'd by ſeveral Parliaments, doth expreſly De<g ref="char:EOLhyphen"/>clare; <hi>That the Kings Highneſs is the only Su<g ref="char:EOLhyphen"/>preme Governor of this Realm, and of all other his Highneſs Dominions and Countries, as well in all Spiritual or Eccleſiaſtical Things or Cauſes, as Temporal.</hi>
+               </p>
+               <pb n="8" facs="tcp:65774:9"/>
+               <p>Words as plain and intelligible as the Wit of Man could deviſe.</p>
+               <p>From whence 'tis obvious to make this Inference;</p>
+               <p>That if the King is <hi>Supream,</hi> then he hath no <hi>Superior;</hi> if <hi>only</hi> Supream, then no <hi>equal.</hi> If <hi>over all</hi> Perſons (and as ſuch the <hi>55th. Canon</hi> enjoyns us to acknowledg him in our Prayers) then <hi>All</hi> Perſons in theſe his Realms, and all other his Dominions and Countries, are <hi>ſubordinate</hi> or <hi>Subject</hi> un<g ref="char:EOLhyphen"/>to him, and if <hi>ſubordinate,</hi> then none of them, either <hi>ſeverally</hi> or <hi>joyntly</hi> are <hi>coordinate</hi> with him.</p>
+               <p>Now is it poſſible, after ſo plain and expreſs a Determination, for any Man to doubt; <hi>That the Supream Power is ſolely in the King?</hi> I obſerve it is poſſible: For, ſome Men who will not be ſatisfy'd with Rea<g ref="char:EOLhyphen"/>ſon, do thus urge.</p>
+               <p>That the Oath of <hi>Supremacy,</hi> being ex<g ref="char:EOLhyphen"/>preſly levell'd againſt the Uſurpations of the <hi>Church</hi> of <hi>Rome,</hi> was conſequently ſo fram'd as to diſcover thoſe who are <hi>Po<g ref="char:EOLhyphen"/>piſhly</hi> affected.</p>
+               <p>For, the Perſons taking that Oath are obliged only to Declare; That they Re<g ref="char:EOLhyphen"/>nounce
+<pb n="9" facs="tcp:65774:9"/> all Foreign Jurisdictions: <hi>i. e.</hi> They do ſwear; That the <hi>King</hi> of <hi>England</hi> is no Feudatory Prince, and that he holds not his <hi>Crown</hi> in <hi>Fee,</hi> either from the <hi>Pope,</hi> or any <hi>Foraign</hi> Power whatſoever. But what is all this, ſay theſe men, to the <hi>Parliament?</hi> Or, how comes this Oath to be urg'd a<g ref="char:EOLhyphen"/>gainſt the Jurisdiction of the <hi>two Houſes?</hi> Since in thoſe very Statutes in which this Oath is enjoyn'd, the <hi>Legiſlative</hi> Power (which doubtleſs is the <hi>Supream</hi> Power) is expreſly Eſtabliſhed in the <hi>Parliament,</hi> as well as in the <hi>King,</hi> in theſe Words.</p>
+               <q>Be it Enacted by the Kings moſt Excellent Majeſty, the Lords Spiritual and Temporal and the Commons in this preſent Parliament aſſem<g ref="char:EOLhyphen"/>bled, and by the Authority of the ſame.</q>
+               <p>Lords Spiritual and Temporal and the Commons do <hi>Enact</hi> joyntly with the King, and therefore have a <hi>Coordinate Power.</hi>
+               </p>
+               <p>To which it is thus Reply'd.</p>
+               <p>That when this Oath of <hi>Supremacy</hi> was firſt framed, the <hi>Pope</hi> being then the moſt noted Uſurper, was for that reaſon more particularly mention'd than any other; but from thence to infer.</p>
+               <p>That it was deſign'd, by way of <hi>Teſt,</hi>
+                  <pb n="10" facs="tcp:65774:10"/> to diſcover <hi>Thoſe,</hi> who are <hi>Popiſhly-affe<g ref="char:EOLhyphen"/>cted,</hi> is a very great Miſtake.</p>
+               <p>For, the Supremacy of the Kings of <hi>England,</hi> being the chief <hi>Prerogative</hi> of the <hi>Crown,</hi> was always challeng'd and main<g ref="char:EOLhyphen"/>tain'd by <note n="(a)" place="margin">
+                     <hi>V.</hi> 27. <hi>Ed.</hi> 3. c. 1. 3 <hi>R.</hi> 2 c. 3. 7 <hi>R.</hi> 2. c. 12. 16 <hi>R.</hi> 2. c. 5. 2 <hi>H.</hi> 4. c. 4. 6 <hi>H.</hi> 4. c. 1. 24 <hi>H.</hi> 8. c. 12. 25. <hi>H.</hi> 8. c. 19. 26 <hi>H.</hi> 8. c. 1. 37 <hi>H.</hi> 8. c. 17. Parl 2. 1. Mar. c. 1.</note> 
+                  <hi>Popiſh</hi> Princes as well as <hi>Pro<g ref="char:EOLhyphen"/>teſtant,</hi> 
+                  <note n="(b)" place="margin">1 <hi>Eliz.</hi> c. 1. 5 <hi>Eliz.</hi> c. 1. 13 <hi>E<g ref="char:EOLhyphen"/>liz.</hi> c. 2.</note> as appears by theſe ſeveral <hi>Statutes</hi> here mention'd in the <hi>Margent.</hi>
+               </p>
+               <p>The Intent then of this Oath was not to diſcover who are <hi>Papists,</hi> but in plain Terms, who are <hi>Traitors:</hi> And therefore let Mens Pretences to Religion be other<g ref="char:EOLhyphen"/>wiſe what they will; if by ſcrupling this <hi>Oath,</hi> they refuſe to give aſſurance to the <hi>Government,</hi> that they will be honeſt and loyal, they are to be eſteem'd, if not <hi>Traitors,</hi> yet at leaſt <hi>Trayterouſly</hi> affe<g ref="char:EOLhyphen"/>cted.</p>
+               <p>And whereas they further urge, That the <hi>Coordinate</hi> Power of the <hi>Parliament</hi> is no way condemn'd by this Oath; which on<g ref="char:EOLhyphen"/>ly takes notice of a <hi>Foraign</hi> Uſurpation; They are for their ſatisfaction, deſired to conſider,</p>
+               <p>That, ſince <hi>rectum est Judex ſui &amp; obliqui,</hi> Domeſtick Uſurpation is hereby excluded as well as Foreign: The Soveraignty of
+<pb n="11" facs="tcp:65774:10"/> the <hi>People</hi> as well as of the <hi>Pope.</hi>
+               </p>
+               <p>And as to that which is pleaded from the Form of the Statute, <hi>by the Authority of the ſame,</hi> as if the <hi>Lords</hi> and <hi>Commons</hi> did by <hi>their</hi> Authority, make and enact Laws joyntly with the King; To this I do hum<g ref="char:EOLhyphen"/>bly Anſwer, That this Expreſſion, if du<g ref="char:EOLhyphen"/>ly conſider'd, doth not in the leaſt favour the <hi>Republican</hi> Fancy of a <hi>Coordinate</hi> Pow<g ref="char:EOLhyphen"/>er.</p>
+               <p>Which I ſhall beſt expreſs to <hi>vulgar</hi> Capacities (for whom this Diſcourſe is chiefly deſign'd) thus faithfully by repre<g ref="char:EOLhyphen"/>ſenting the Matter of <hi>Fact.</hi>
+               </p>
+               <p>Although the <hi>Legiſlative</hi> Power is <hi>ſolely</hi> in the King, yet His <hi>Majeſty</hi> doth not make Laws, without the concurring Advice and Approbation of his Subjects: For the King, like other Men, being mortal and of limited Capacity, is neither <hi>omniſcient</hi> nor <hi>omnipreſent.</hi> He cannot be in all Parts of his Dominions at one and the ſame time, and conſequently can no otherwiſe be acquainted with the Grievances of his Subjects, but by the Reports of o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>To ſupply this Defect, he calls whom
+<pb n="12" facs="tcp:65774:11"/> he pleaſeth (ſuch as he thinks able and faithful to aſſiſt and direct him) to be of his <hi>Privy Councel;</hi> whoſe advice he takes in the Execution of thoſe Laws which are already Eſtabliſh'd.</p>
+               <p>But ſince all human Laws are liable to Defects (for it is the ſole <hi>Prerogative</hi> of Gods Law, as being the reſult of Infinite Wiſ<g ref="char:EOLhyphen"/>dom and Goodneſs, to be <hi>exceeding broad;</hi> to be fitted to all times, and to anſwer all occaſions) it is therefore ſometimes neceſ<g ref="char:EOLhyphen"/>ſary that <hi>new</hi> Laws ſhould be made, and the <hi>old</hi> ones either abrogated and null'd; or elſe reinforc'd with greater Penalties.</p>
+               <p>In ſuch Caſes, according to the happy Conſtitution of theſe <hi>Nations,</hi> the King ſummons his <hi>Great Council;</hi> the High and moſt Honourable Court of Parliament; The <hi>Lords Spiritual,</hi> the <hi>Lords Temporal</hi> and the <hi>Commons;</hi> Repreſenting the <hi>Three Eſtates</hi> of the Kingdom; Who coming from all Parts of the Nation, are beſt able to in<g ref="char:EOLhyphen"/>form His Majeſty of the Grievances of his Subjects; and by what Ways and Me<g ref="char:EOLhyphen"/>thods they may moſt ſuitably be re<g ref="char:EOLhyphen"/>dreſs'd.</p>
+               <p>In order hereunto; when any Propoſal,
+<pb n="13" facs="tcp:65774:11"/> or as we phraſe it any <hi>Bill,</hi> hath paſs'd the Approbation of the <hi>Two Houſes;</hi> it is then humbly preſented to the <hi>King</hi> for his <hi>Royal Aſſent.</hi> Which if His Majeſty thinks fit to grant, then <hi rend="blackletterType">Le Roy le veult,</hi> makes it a Law: But if the King ſhall diſlike the Bill, he then rejects it, with a <hi rend="blackletterType">Le Roy ne veult,</hi> the King will not paſs it; or elſe in that more obliging Form of Denyal, <hi rend="blackletterType">Le Roy aviſera,</hi> the King will conſider or adviſe about it.</p>
+               <p>This is the plain matter of Fact. From whence 'tis very eaſie to underſtand, what this Form of words, <hi>By the Authority of the ſame</hi> doth import, <hi>viz.</hi> not of the <hi>ſame Lords and Commons</hi> (as if either <hi>Lords</hi> or <hi>Commons</hi> had an Authority contradiſtinct from, or coordinate with, the <hi>King)</hi> but by the Authority of the <hi>ſame Parliament.</hi>
+               </p>
+               <p>The which <hi>Parliament,</hi> as Sir <hi>Edw. Cooke</hi> 
+                  <note n="(a)" place="margin">Inſtit. part 4. Cap. 1. p. 1.</note> informs us, conſiſteth of <hi>The Kings Majeſty, ſitting there as in his Royal Politick Capacity, and of the Three Eſtates of the Realm,</hi> viz. <hi>The Lords Spiritual, the Lords Temporal and the Commons.</hi> So that in Pro<g ref="char:EOLhyphen"/>priety of Speeeh, neither <hi>Lords</hi> nor <hi>Commons</hi> (though in a vulgar Senſe, and to ſome
+<pb n="14" facs="tcp:65774:12"/> purpoſes, they are ſometimes ſo called) I ſay neither <hi>Lords</hi> nor <hi>Commons</hi> ſtrictly and properly are a Parliament without the <hi>King;</hi> who <hi>ſummoning</hi> them by his <hi>Writs;</hi> and <hi>preſiding</hi> over them as their <hi>Head,</hi> ani<g ref="char:EOLhyphen"/>mates and informs them, and makes them a <hi>Legal Parliament,</hi> who otherwiſe, with<g ref="char:EOLhyphen"/>out the <hi>Royal Summons,</hi> would be no bet<g ref="char:EOLhyphen"/>ter than an unlawful and <hi>riotous</hi> Conven<g ref="char:EOLhyphen"/>tion.</p>
+               <p>The <hi>Lords</hi> and <hi>Commons</hi> have indeed an Authority, to meet and ſit and debate as a <hi>Parliament;</hi> But they have this Authority <hi>ſolely</hi> from the <hi>King,</hi> and not from <hi>Them<g ref="char:EOLhyphen"/>ſelves</hi> or from the <hi>People:</hi> For, the King <hi>Calls</hi> them when he pleaſeth, and ſo makes them a Parliament; and he <hi>Diſſolves</hi> them when he thinks fit, and ſo makes them none.</p>
+               <p>Again, The Lords and Commons have an <hi>Authority,</hi> but not to <hi>Enact</hi> or make Laws (for the Words, <hi>Be it enacted</hi> refer only to the <hi>King)</hi> but to <hi>adviſe</hi> and <hi>conſent</hi> to ſuch Laws as ſhall be made by the King: And therefore this Phraſe, <hi>Be it e<g ref="char:EOLhyphen"/>nacted by the Kings moſt excellent Majeſty, the Lords Spiritual and Temporal, and the Commons</hi>
+                  <pb n="15" facs="tcp:65774:12"/> 
+                  <hi>in this preſent Parliament aſſembled,</hi> &amp;c. hath an <hi>Ellipſis</hi> in it; and is to be read thus. Be it <hi>enacted</hi> by the Kings moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, by the <hi>Advice</hi> and with the <hi>Conſent</hi> of the Lords Spiritual and Temporal and the Commons in this Parliament aſſembled, <hi>&amp;c. Advice</hi> and <hi>Conſent</hi> though for Brevities ſake they are not always expreſs'd, yet are ſtill to be underſtood.</p>
+               <p>And for the Truth of this, I appeal to the <hi>Form</hi> of our <hi>antient</hi> Statutes (as alſo to ſome modern ones) and that not only in the <hi>Title,</hi> but alſo in the <hi>Preface</hi> and <hi>San<g ref="char:EOLhyphen"/>ction</hi> of them. For till the time of <hi>Henry</hi> VIII. the words <hi>Advice, Aſſent</hi> or <hi>Conſent</hi> were never omitted. As appears from the Statutes themſelves, to which recourſe to be had.</p>
+               <p>From theſe Premiſes it plainly appears, <hi>That the Supreme Power is ſolely in the King;</hi> and, That the <hi>Two</hi> Houſes of Parliament are (not Partners in the Government but) his moſt Dutiful and Loyal Subjects; as in all their <hi>Petitions</hi> moſt truly they do ſtile themſelves. And that this Form in our Statutes, <hi>By the Authority of the ſame,</hi> when rightly underſtood, doth neither
+<pb n="16" facs="tcp:65774:13"/> give them Title to make <hi>Laws,</hi> nor per<g ref="char:EOLhyphen"/>form any other Act of Soveraignty, which may countenance this Fancy of a <hi>Coordi<g ref="char:EOLhyphen"/>nate Power.</hi>
+               </p>
+               <p>The next Pretence of theſe <hi>Republican Polititians</hi> (which I find they often urge in vindication of the late <hi>Rebellion)</hi> is this; <hi>That the King is One of the Three Estates;</hi> and from thence they infer: He hath but <hi>One</hi> ſhare in the Government; and that the other <hi>Two</hi> are Co-partners with Him.</p>
+               <p>The which <hi>Suggestion</hi> being apparently <hi>Falſe,</hi> I ſhall need to ſay the leſs in it's <hi>Confutation,</hi> eſpecially being ſo happily prevented by a late Learned Hand, <hi>viz. The Grand Queſtion concerning the Biſhops Right,</hi> &amp;c.</p>
+               <p>The judicious Author of which Trea<g ref="char:EOLhyphen"/>tiſe having firſt premiſed;</p>
+               <p>That the <hi>whole Parliament</hi> aſſembled, are the beſt Judges, which are the <hi>Three E<g ref="char:EOLhyphen"/>ſtates in Parliament;</hi> and that their Autho<g ref="char:EOLhyphen"/>rity is more to be valued, than that of a<g ref="char:EOLhyphen"/>ny particular Perſons, whether <hi>Lawyers</hi> or others; He then, in many Inſtances, in<g ref="char:EOLhyphen"/>forms us from the Parliament <hi>Rolls</hi> and
+<pb n="17" facs="tcp:65774:13"/> publick <hi>Records</hi> of the Kingdom; That the <hi>Three</hi> Eſtates are the <hi>Lords Spiritual,</hi> the <hi>Lords Temporal</hi> and the <hi>Commons.</hi>
+               </p>
+               <p>In theſe Records we read of Impeach<g ref="char:EOLhyphen"/>ments <note place="margin">
+                     <hi>R.</hi> 2.</note> made <hi rend="blackletterType">before the King, and all the Eſtates of the Realm.</hi> Of Commiſſions appointed <hi rend="blackletterType">by the Peers and Lords Spiri<g ref="char:EOLhyphen"/>tual</hi> 
+                  <note place="margin">
+                     <hi>R.</hi> 2.</note> 
+                  <hi>and Temporal, and the Commons of the Kingdom, repreſenting all the States of the Kingdom.</hi>
+               </p>
+               <p>Of ſuch and ſuch things,<note place="margin">6 <hi>H.</hi> 6. n. 24.</note> 
+                  <hi rend="blackletterType">adviſed and appointed by the Authority of the King, aſ<g ref="char:EOLhyphen"/>ſenting the Three Eſtates of this Realm.</hi>
+               </p>
+               <p>The Duke of <hi>Bedford</hi> appear'd in Par<g ref="char:EOLhyphen"/>liament <note place="margin">11 <hi>H.</hi> 6. n. 10.</note> 
+                  <hi rend="blackletterType">before the King and the Three E<g ref="char:EOLhyphen"/>ſtates of this Realm.</hi>
+               </p>
+               <p>In the Parliament 1. <hi>H.</hi> 6. The <hi>Queen Dowager,</hi> in her Petition, mentions the <hi>Ratification</hi> made in Parliament, 9 <hi>H.</hi> 5. and ſaith; <hi rend="blackletterType">It was not only ſworn by the King, but by the Three Eſtates of the Kingdom of England, i. e. by the Prelates, Nobles and other Grandees, and by the Commons of the Realm of England.</hi>
+               </p>
+               <p>And to add one Inſtance for latter times in the <hi>Parl.</hi> 1 <hi>Eliz. cap.</hi> 3. <hi>The Lords Spiritu<g ref="char:EOLhyphen"/>al, the Lords Temporal and the Commons declare,</hi>
+                  <pb n="18" facs="tcp:65774:14"/> 
+                  <hi rend="blackletterType">That they do repreſent in Parliament the Three Eſtates of the Realm.</hi>
+               </p>
+               <p>With ſeveral others which I ſhall not mention, but refer all thoſe, who either want or deſire ſatisfaction, to the Book it ſelf.</p>
+               <p>And as to my plain, honeſt Reader, who hath neither ability nor opportunity to conſult theſe <hi>Publick Records,</hi> I ſhall deſire him to open his <hi>Common-Prayer-Book;</hi> and to turn to the Office for the <hi>5th.</hi> of <hi>No<g ref="char:EOLhyphen"/>vember.</hi> In the Preface of which he thus reads, <hi>A Form of Prayer with Thanksgiving—for the happy Deliverance of <hi rend="blackletterType">the King, and the Three Eſtates of the Realm.</hi>
+                  </hi> And in the <hi>Collect</hi> before the <hi>Epiſtle,</hi> We acknowledg the Power, Wiſdom and Goodneſs of God, in preſerving <hi rend="blackletterType">the King, and the Three Eſtates of this Realm aſſembled in Parliament.</hi>
+               </p>
+               <p>It thus evidently appearing; That the <hi>King</hi> is not <hi>One</hi> of the <hi>Three Eſtates,</hi> and conſequently, that his Anthority is not li<g ref="char:EOLhyphen"/>mited or reſtrain'd, by the Coordinate Power of the other <hi>Two;</hi> we may with better aſſurance proceed to examin the Truth of their next Suggeſtion, <hi>viz. That</hi>
+                  <pb n="19" facs="tcp:65774:14"/> 
+                  <hi>the King of</hi> England <hi>is not an Abſolute Mo<g ref="char:EOLhyphen"/>narch.</hi>
+               </p>
+               <p>In which Inquiry, leaſt I ſhould dimi<g ref="char:EOLhyphen"/>niſh the <hi>Kings</hi> juſt <hi>Right</hi> and <hi>Prerogative</hi> on the one hand, or encroach upon the Sub<g ref="char:EOLhyphen"/>jects <hi>Freedom</hi> and <hi>Liberty</hi> on the other, I muſt neither <hi>affirm</hi> nor <hi>deny</hi> without due Diſtinction.</p>
+               <p>Now the Kings Power and Authori<g ref="char:EOLhyphen"/>ty doth admit of a <hi>Twofold</hi> Conſidera<g ref="char:EOLhyphen"/>tion.</p>
+               <p>For, either we may obſerve it's <hi>efficient Cauſe,</hi> the Spring and Fountain from whence it flows; or elſe may take notice of the <hi>Execution</hi> and <hi>Adminiſtration</hi> of it.</p>
+               <p>As to the <hi>Firſt</hi> of theſe;</p>
+               <p>If the Queſtion ſhould be asked; whence hath the <hi>King</hi> this Power to Rule and Govern theſe Nations? Who gave him this Authority?</p>
+               <p>To this a juſt Anſwer may be ſugge<g ref="char:EOLhyphen"/>ſted from His Majeſties Royal <hi>Motto;</hi> DIEU ET MON DROIT, <hi>God and my Birth-right have given me theſe</hi> King<g ref="char:EOLhyphen"/>doms.</p>
+               <pb n="20" facs="tcp:65774:15"/>
+               <p>If it further be demanded, How <hi>Birth-right</hi> doth Entitle to a Crown? 'Tis then truly replyed <hi>That it is a Fundamental</hi> Law <hi>of</hi> England, <hi>That the Crown doth deſcend to the next in Blood; England</hi> being not an <hi>Elective</hi> but an <hi>Hereditary</hi> Kingdom.</p>
+               <p>And from hence we are occaſionally inſtructed, how to underſtand that Con<g ref="char:EOLhyphen"/>troverted <hi>Place</hi> in <hi>Bracton</hi> (which I there<g ref="char:EOLhyphen"/>fore mention becauſe I find it repeated with great Triumph in ſeveral <hi>Pamphlets) Lex facit Regem;</hi> the Law makes the King; <note place="margin">Lib. 1. c. 7. f. 5. and Lib. 3. c. 9. f. 107.</note> 
+                  <hi>The Law,</hi> i. e. <hi>The Law of Succesſion.</hi> In which Senſe doubtleſs my Lord <hi>Cook</hi> (as I have ſomewhere read) told King <hi>James, That the Law ſet the Crown upon his Head.</hi>
+               </p>
+               <p>And it is the ſame Law that ſet the <hi>Crown</hi> upon the Head of His <hi>Preſent Ma<g ref="char:EOLhyphen"/>jeſty.</hi>
+               </p>
+               <p>For though His <hi>Majeſties</hi> perſonal Qua<g ref="char:EOLhyphen"/>lifications deſerve a <hi>Crown;</hi> yet it was not any <hi>Acceptance</hi> or <hi>Conſent</hi> of the <hi>People,</hi> ex<g ref="char:EOLhyphen"/>preſs'd at his <hi>Coronation</hi> or otherwiſe, but it was his <hi>Birth-right</hi> only which made him <hi>King,</hi> becauſe Son and Heir apparent of King <hi>Charles</hi> the <hi>Firſt.</hi>
+               </p>
+               <p>This is the full Import and Meaning of that ſaying of <hi>Bracton.</hi>
+               </p>
+               <pb n="21" facs="tcp:65774:15"/>
+               <p>But now from hence to infer (as ſome <hi>canting Polititians</hi> have done) That becauſe <hi>The Law,</hi> in this Senſe as now explain'd, <hi>makes the King;</hi> therefore <hi>the Law is Superi<g ref="char:EOLhyphen"/>or to the King;</hi> therefore <hi>the Law hath a Co<g ref="char:EOLhyphen"/>ercive Power over the King;</hi> therefore, <hi>If the King ſhall neglect to Diſcharge his Trust, the Parliament of</hi> England <hi>(who are not only the highest Expounders, but the ſole Makers of</hi> 
+                  <note place="margin">
+                     <hi>Bradſhaw's Harangue</hi> at the <hi>Kings Try<g ref="char:EOLhyphen"/>al.</hi>
+                  </note> 
+                  <hi>the Law) can by that Law which made him King, cenſure and condemn him for his Neg<g ref="char:EOLhyphen"/>lect.</hi> I ſay thus to infer, is not only <hi>falſe</hi> and <hi>exploſive</hi> in it ſelf; but <hi>Treaſonable</hi> to the <hi>King,</hi> and <hi>Deſtructive</hi> to the <hi>Kingdom:</hi> But of this, God willing, more fully in it's proper Place.</p>
+               <p>It may ſuffice at preſent to obſerve, that the Crown of <hi>England</hi> is an <hi>Imperial Crown, i. e.</hi> Such a Crown which as to the <hi>Coercive</hi> part; is not ſubject to any human Tribu<g ref="char:EOLhyphen"/>nal or Judicature whatſoever, as moſt plainly appears from our <hi>Law-Books</hi> and <hi>Statutes.</hi>
+               </p>
+               <p>It was aſſerted in our Laws in the Time<note place="margin">16 <hi>R.</hi> 2. c. 5.</note> of King <hi>Richard the Second, That the <hi rend="blackletterType">Crown of England hath been ſo free at all times, that it hath been in no</hi>
+                  </hi> EARTHLY SUBJEC<g ref="char:EOLhyphen"/>TION
+<pb n="22" facs="tcp:65774:16"/> BUT IMMEDIATELY SUBJECT TO GOD, <hi rend="blackletterType">in all things touching the Regalty of the ſame Crown, and to none other.</hi>
+               </p>
+               <p>And in 24 <hi>H.</hi> 8. it was declared in Par<g ref="char:EOLhyphen"/>liament, <note place="margin">24 <hi>H.</hi> 8. c. 22.</note> 
+                  <hi>That <hi rend="blackletterType">this Realm of England is an Empire, and ſo hath been accepted in the World, govern'd by one Supreme Head and King, having the Dignity and Royal Eſtate of the Imperial Crown of the ſame; unto whom a Body Politick—of Spiritualty and Temporalty, been bounden and owen to bear</hi>
+                  </hi> NEXT TO GOD, <hi rend="blackletterType">a natural and humble Obedience.</hi>
+               </p>
+               <p>And 25 <hi>H.</hi> 8. It is Declared; <hi>That</hi> 
+                  <note place="margin">25 <hi>H.</hi> 8. c. 21.</note> 
+                  <hi rend="blackletterType">This Realm, recognizing</hi> NO SUPERIOR UNDER GOD, BUT ONLY THE KING, <hi rend="blackletterType">hath been, and is free from Subjection to any man's Laws, but only to ſuch as have been devized within the ſame. V.</hi> 1 <hi>Eliz. cap.</hi> 3. &amp; 1 <hi>Jac. c.</hi> 1. which are very pertinent to be peruſed, in confirmation of theſe preceding Statutes.</p>
+               <p>And if private Authorities may not ſeem ſuperfluous after the recital of ſuch <hi>Authentick Records,</hi> I might largely con<g ref="char:EOLhyphen"/>firm this <hi>Supreme Independent Power of the King,</hi> by the repeated <hi>Teſtimonies</hi> of our moſt eminent and noted <hi>Writers.</hi>
+               </p>
+               <pb n="23" facs="tcp:65774:16"/>
+               <p>But becauſe I would not be too tedious, I ſhall mention none but the forecited <hi>Bracton</hi> Lord Chief Juſtice under <hi>Henry</hi> the 3<hi>d.</hi> And I the rather take notice of <hi>Him,</hi> becauſe ſome paſſages in his <hi>Works</hi> have been perverted and abuſed, by the <hi>IGNORANCE</hi> or <hi>MALICE</hi> of ill deſign<g ref="char:EOLhyphen"/>ing Men.</p>
+               <p>From this Learned and Judicious <hi>Au<g ref="char:EOLhyphen"/>thor</hi> we are thus inſtructed.</p>
+               <p>
+                  <note n="(a)" place="margin">Om<g ref="char:EOLhyphen"/>nis quidem ſub eo, &amp; ipſo ſub nul<g ref="char:EOLunhyphen"/>lo, niſi tan<g ref="char:EOLhyphen"/>tum ſub. Deo. Pa<g ref="char:EOLhyphen"/>rem autem non habet in Regno ſuo, quia ſic a<g ref="char:EOLhyphen"/>mitteret preceptum.</note> 
+                  <hi>All Ranks and Degrees of Men are ſubject to the King; but the King himſelf is under none but God. There is none equal to him, or coordinate with him in the Kingdom; ſuch a fancy being wholly inconſiſtent with his</hi> Kingly Power—<note n="(b)" place="margin">
+                     <p>
+                        <hi>Si autem ab ro petatur (cum brevo non currat contra ip<g ref="char:EOLhyphen"/>ſum) locus erit ſuppli<g ref="char:EOLhyphen"/>cationi quod factum ſuum corrigat &amp; emendet, quod quidem ſi non fecerit, ſatis ſuf<g ref="char:EOLhyphen"/>ficet ei ad paenam quod Dominum expectet ultorem.</hi>
+                     </p>
+                     <p>
+                        <hi>Nemo quidem de factis ſuis praeſumat diſputare, multe fortius contra factum ſuum venire.</hi>
+                     </p>
+                     <p>Vid <hi>Bracton</hi> de Leg. Ang. Lib. 1. cap. 8. Sect. 5. fol 5.</p>
+                  </note> 
+                  <hi>And if any Man hath occaſion to implead the King (ſince no Writ can be taken out againſt him) he muſt then pro<g ref="char:EOLhyphen"/>ceed by way of Petition. But if the King ſhall ſtill refuſe to do him right, it will be ſufficient puniſhment for him to expect the Lord as an Avenger.</hi>
+               </p>
+               <pb n="24" facs="tcp:65774:17"/>
+               <q>Doubtleſs no man ſhould preſume to queſtion the Kings Actions; much leſs to oppoſe them by force.</q>
+               <p>And in his <hi>5th.</hi> Book <hi>de Defaltis Cap.</hi> 3. <hi>Sect.</hi> 3. he ſpeaks the ſame Language.</p>
+               <p>For having put the Caſe, <hi>That if the King being Petition'd to redreſs the Grievances of his Subjects, ſhould yet neglect to grant them Juſtice, what further courſe the Sub<g ref="char:EOLhyphen"/>ject might take for his Relief?</hi> He Rules it thus.</p>
+               <p>
+                  <note n="(c)" place="margin">
+                     <p>
+                        <hi>Quo caſu cum Dominus Rex ſuper hoc fuerit interpella<g ref="char:EOLhyphen"/>tus, in ea<g ref="char:EOLhyphen"/>dem volun<g ref="char:EOLhyphen"/>tate quod velit te<g ref="char:EOLhyphen"/>nentem eſſe defenſum cum inju<g ref="char:EOLhyphen"/>ria, cum tentatur Juſtitiam totis viri<g ref="char:EOLhyphen"/>bus defenſa<g ref="char:EOLhyphen"/>ro, ex tunc erit injuria ipſius Domini Regis, nec poterit ei neceſſitatem aliquis imponere quod illam corrigat &amp; emendet niſi velit, cum ſuperiorem non habeat niſi Deum, &amp; ſatis crit illi pro paena quod Deum expectat ultoram.</hi>
+                     </p>
+                     <p>
+                        <hi>Bracton</hi> Lib. 5. <hi>de Defaltis</hi> c. 3. Sect. 3. fol. 368,</p>
+                  </note> 
+                  <hi>If the King, who is bound to admini<g ref="char:EOLhyphen"/>ſter Juſtice to his utmoſt Power, will not recal the wrong he did upon a falſe Suggeſtion; in this caſe he injures his Subjects, but no body can force him to do Right; becauſe he hath no Superior but God only. And it is ſufficient that we ſhall have a day of hearing hereafter at a Juſt Tri<g ref="char:EOLhyphen"/>bunal.</hi>
+               </p>
+               <p>
+                  <hi>V.</hi> Lib. 2. c. 24. Sect. 1. p. 55. <hi>&amp;</hi> lib. 2. c. 37. Sect. 5. p. 87. <hi>&amp;</hi> lib. 3. c. 9. Sect. 3. p. 107.</p>
+               <pb n="25" facs="tcp:65774:17"/>
+               <p>But here I am Allarm'd with that no<g ref="char:EOLhyphen"/>ted ſaying of this Author; <hi>Rex habet Supe<g ref="char:EOLhyphen"/>riorem, Deum</hi> &amp; <hi>Legem etiam &amp; Curiam.</hi>
+               </p>
+               <p>And there is ſcarce a <hi>Pamphlet,</hi> preten<g ref="char:EOLhyphen"/>ding <note place="margin">Vid. <hi>Sidney's</hi> Tryal p. 23.</note> either to <hi>Law</hi> or <hi>Latin,</hi> which doth not triumph in this Sentence of <hi>Bracton.</hi> I am therefore oblig'd, for their ſakes who may otherwiſe be misguided, to endea<g ref="char:EOLhyphen"/>vour the full Sence and Meaning of theſe Words.</p>
+               <p>In order to which Task, and that he may the better apprehend the clearneſs of my Anſwer, I muſt trouble my Reader to peruſe the whole Section.</p>
+               <q>
+                  <hi>De Chartis vero Regiis &amp; factis Regum, non debent nec poſſunt Juſticiarii, nec privatae per<g ref="char:EOLhyphen"/>ſonae diſputare; nec etiam ſi in illa dubitatio ori<g ref="char:EOLhyphen"/>atur, poſſunt eam interpretari, &amp; in dubiis &amp; obſcuris, vel ſi aliqua dictio duos contineat in<g ref="char:EOLhyphen"/>tellectus Domini Regis erit expectanda interpre<g ref="char:EOLhyphen"/>tatio &amp; voluntas, cum ejus ſit interpretari, cu<g ref="char:EOLhyphen"/>jus eſt concedere, &amp; etiam ſi omnino ſit falſa propter raſuram, vel quia forte ſignum appoſi<g ref="char:EOLhyphen"/>tum eſt adulterinum, melius &amp; tutius eſt quod coram ipſo Rege procedatur ad Judicium. Item nec factum Regis, nec chartam poteſt quis ju<g ref="char:EOLhyphen"/>dicare, ita quod factum Domini Regis irretetur.</hi>
+                  <pb n="26" facs="tcp:65774:18"/> 
+                  <hi>Sed dicere poterit quis, quod Rex Juſtitiam fe<g ref="char:EOLhyphen"/>cerit, &amp; bene, &amp; ſi hoc, eadem ratione quod male, &amp; ita imponere ei quod injuriam emendet, ne inci<g ref="char:EOLhyphen"/>dat Rex &amp; Juſtic. in Judicium viventis Dei propter injuriam.</hi> REX AUTEM HABET SUPERIOREM, DEUM. S. ITEM LEGEM, PER QUAM FACTUS EST REX. ITEM CURIAM SUAM, <hi>viz. Comites, Barones, quid Comites dicuntur, quaſi ſocii Regis, &amp; qui habet Socium, habet Magiſtrum, &amp; ideo ſi Rex fuerit ſine fraeno, i. e. ſine Lege, debent ei fraenum ponere, niſi ipſimet fuerint cum Rege ſine fraeno, &amp; tunc clamabunt ſubditi &amp; dicent, Domine Iheſu Chriſte in chamo &amp; fraeno maxillas eorum con<g ref="char:EOLhyphen"/>ſtringe, ad quos Dominus, vocabo ſuper eos gentem robuſtam &amp; longinquam &amp; ignotam, cu<g ref="char:EOLhyphen"/>jus linguam ignorabunt, quae deſtruet eos, &amp; e<g ref="char:EOLhyphen"/>vellet radices eorum de terra, &amp; a talibus judi<g ref="char:EOLhyphen"/>cabuntur, quia ſubditos noluerunt juste judi<g ref="char:EOLhyphen"/>care, &amp; in fine, ligatis manibus &amp; pedibus eorum, mittet eos in caminum ignis &amp; tenebras exterio<g ref="char:EOLhyphen"/>res, ubi erit fletus &amp; ſtridor dentium.</hi> 
+                  <bibl>V. Lib. 2. c. 16. §. 3 fol. 34.</bibl>
+               </q>
+               <p>This is the whole <hi>Section,</hi> in which that controverted Paſſage, <hi>Rex habet Superiorem,</hi> &amp;c. is contain'd.</p>
+               <pb n="27" facs="tcp:65774:18"/>
+               <p>Now as preparatory to a juſt Explica<g ref="char:EOLhyphen"/>tion, it will be pertinent to conſider theſe <hi>Two</hi> Things.</p>
+               <p>
+                  <hi>Firſt,</hi> That all difficult and obſcure pla<g ref="char:EOLhyphen"/>ces in any Author, ought to be determi<g ref="char:EOLhyphen"/>ned by ſuch as are plain and obvious; but not <hi>e converſo.</hi> And therefore,</p>
+               <p>
+                  <hi>Secondly,</hi> When we doubt of the true Sence of an Author, it is much more <hi>mo<g ref="char:EOLhyphen"/>deſt</hi> as well as <hi>charitable,</hi> to confeſs our own Ignorance, and to ſay, we do not know what he means, rather than to calumni<g ref="char:EOLhyphen"/>ate and miſtake him, by affixing ſuch a Sence to his Words as he never intended.</p>
+               <p>And conſequently, it might be a ſuffi<g ref="char:EOLhyphen"/>cient <hi>Anſwer</hi> to affirm; That ſince our <hi>Bracton</hi> hath ſo plainly and ſo often told us; <hi>That the King is under none but God. That all Orders and Degrees of Men are Subject to the King. That he hath no equal much leſs Su<g ref="char:EOLhyphen"/>perior. That no man ſhould preſume to queſtion his Actions,</hi> &amp;c. It evidently follows;</p>
+               <p>That whatever can be underſtood by this <hi>Curia</hi> (whether <hi>Lords</hi> or <hi>Commons)</hi> yet this <hi>Curia</hi> is not Superior to the <hi>King:</hi> It neither gave him his Authority at <hi>first,</hi> nor hath the leaſt ſhadow of a Coercive
+<pb n="28" facs="tcp:65774:19"/> Power, to limit and reſtrain him. For certainly <hi>that</hi> cannot be the meaning of <hi>Bracton,</hi> which he hath ſo expreſly con<g ref="char:EOLhyphen"/>tradicted in other parts of his <hi>Works.</hi>
+               </p>
+               <p>But that I may <hi>Anſwer</hi> as well as <hi>Evade,</hi> I now come to explain, what I think to be the true Sence and Meaning of theſe Words, <hi>Rex habet Superiorem,</hi> &amp;c.</p>
+               <p>The Subject matter of this <hi>Second Book</hi> of BRACTION is, <hi>De acquirendo rerum Do<g ref="char:EOLhyphen"/>minio.</hi> It explains the nature of <hi>Legal Ti<g ref="char:EOLhyphen"/>tles;</hi> and ſets forth the ſeveral ways, by which a man may acquire ſuch a Right and Property in the thing poſſeſs'd as to call it his <hi>own.</hi> And amongſt many o<g ref="char:EOLhyphen"/>thers, DONATION as being the chief, is more particularly conſider'd by him.</p>
+               <p>Now theſe <hi>Gifts</hi> or <hi>Grants</hi> (as he tells us in the beginning of this 16 <hi>Chap. Sect.</hi> 1.) <hi>fiunt in ſcriptis, ſicut in Chartis, ad perpetuam memoriam, propter brevem hominum vitam, &amp; ut facilius probari poſſit Donatio.</hi> They are for Mortalities ſake, put into Writing, that ſo the <hi>Donee</hi> (ſhould his Title be que<g ref="char:EOLhyphen"/>ſtion'd) by the Evidence of ſuch enrolled Deeds, may ſecure his Poſſeſſion.</p>
+               <p>Of theſe Grants or Charters, ſome are
+<pb n="29" facs="tcp:65774:19"/> made by the <hi>King;</hi> others by <hi>private</hi> Men. And having largely diſcours'd of theſe private Charters, <hi>Sect.</hi> 2. 4. and ſo on; in this intermediate 3<hi>d. Sect.</hi> he more parti<g ref="char:EOLhyphen"/>cularly gives us his Judgment <hi>de Chartis Regiis;</hi> which by way of Eminency are ſtiled <hi>Charters.</hi>
+               </p>
+               <p>
+                  <hi>De Chartis vero Regiis &amp; factis Regum, non debent nec poſſunt Justiciarii, nec privatae Per<g ref="char:EOLhyphen"/>ſonae diſputare:</hi> Neither the <note n="(a)" place="margin">
+                     <hi>Who are here meant by thoſe</hi> Ju<g ref="char:EOLhyphen"/>ſticiarii, <hi>let the learned in the Law de<g ref="char:EOLhyphen"/>termine.</hi>
+                  </note> 
+                  <hi>Justiciarii</hi> nor private perſons, have any Commiſſion to diſpute the Kings Charters; or to queſtion any other of his Majeſties Proceedings; <hi>nec etiam ſi in illa dubitatio oriatur, poſſunt eam interpretari:</hi> For where the Royal Grant is doubtful and obſcure, it would be pre<g ref="char:EOLhyphen"/>ſumption in them to pretend to explain it. <hi>Et in dubiis &amp; obſcuris, vel ſi aliqua dictio duos contineat intellectus, Domini Regis erit ex<g ref="char:EOLhyphen"/>pectanda Interpretatio &amp; voluntas; cum ejus ſit interpretari cujus eſt concedere.</hi>
+               </p>
+               <p>But if any part of it be ambiguous, and doth admit of a double Senſe, than the Kings pleaſure (ſince His Majeſty who firſt made the Grant beſt knows his own Mind) is the ſureſt and moſt authentick Interpretation; <hi>Et etiam ſi omnino ſit falſa</hi>
+                  <pb n="30" facs="tcp:65774:20"/> 
+                  <hi>propter raſuram, vel quia forte ſignum appoſi<g ref="char:EOLhyphen"/>tum eſt adulterinum, melius &amp; tutius eſt quod coram ipſo Rege procedatur ad Judicium.</hi>
+               </p>
+               <p>Moreover ſhould there be ſuſpicion, that any Charter (either by eraſing or corrupt Interpolation) hath been falſely tranſcri<g ref="char:EOLhyphen"/>bed, 'tis the beſt and ſafeſt courſe, to de<g ref="char:EOLhyphen"/>termine the matter before the King him<g ref="char:EOLhyphen"/>ſelf. <hi>Item nec factum Regis, nec chartam po<g ref="char:EOLhyphen"/>teſt quis judicare, ita quod factum Domini Re<g ref="char:EOLhyphen"/>gis irritetur.</hi> However (as was ſaid before) let no man preſume to cenſure the Kings Charters, or any other of his Proceedings, ſo as to make null and void the Act and Deed of our Lord the King.</p>
+               <p>
+                  <hi>Sed dicere poterit quis,</hi> But here it may be Objected, <hi>quod Rex juſtitiam fecerit, &amp; bene,</hi> If the King will do Juſtice, 'tis well; <hi>&amp; ſi hoc eadem ratione quod male, &amp; ita imponere ei quod injuriam emendet, ne incidat Rex &amp; Juſtic. in judicium viventis Dei propter injuriam.</hi> and ſhould he not do Juſtice, it ſeems that muſt be well taken too, ſince no body dares tell him that he doth amiſs; and ac<g ref="char:EOLhyphen"/>cordingly there will be none to admoniſh him to correct his fault, that ſo he may e<g ref="char:EOLhyphen"/>ſcape the Judgment of the living God.</p>
+               <pb n="31" facs="tcp:65774:20"/>
+               <p>To this Objection BRACTON re<g ref="char:EOLhyphen"/>turns an <hi>Anſwer,</hi> though indeed not uſhe<g ref="char:EOLhyphen"/>red in with the uſual Formality of a <hi>Sic Reſpondeo.</hi> And his Anſwer is this;</p>
+               <p>
+                  <hi>Rex autem habet Superiorem,</hi> &amp;c.</p>
+               <p>'Tis true indeed, none can controle the Kings Perſon or cenſure his Actions (his Majeſty being <hi>Supream</hi> over all Perſons, and in all Cauſes) <hi>autem;</hi> but yet we have theſe encouraging Reaſons, that the King will do Juſtice, and govern his People according to <hi>Right.</hi>
+               </p>
+               <p>For 1. <hi>Rex habet Superiorem, Deum, ſc.</hi> As high and as great as the King is, there is one higher and greater than he, even Al<g ref="char:EOLhyphen"/>mighty God; <hi>The King of Kings and Lord of Lords.</hi> It is therefore much hoped; that a due Senſe of this dreadful Majeſty (be<g ref="char:EOLhyphen"/>fore whoſe Tribunal the greateſt <hi>Monarchs</hi> as well as the meaneſt of their <hi>Subjects</hi> muſt one day appear) may over-awe and reſtrain the King from all unjuſt and inju<g ref="char:EOLhyphen"/>rious Proceedings.</p>
+               <p n="2">2. <hi>Item Legem per quam factus eſt Rex.</hi> And moreover the better to enable the King to do Juſtice, there is a <hi>Law</hi> to di<g ref="char:EOLhyphen"/>rect him in his Interpretations, the which
+<pb n="32" facs="tcp:65774:21"/> 
+                  <hi>Law</hi> his Majeſty is obliged even in grati<g ref="char:EOLhyphen"/>tude to obſerve, ſince it was the Law which made him King. (But how this muſt be underſtood is already explain'd.)</p>
+               <p n="3">3. <hi>Item, Curiam ſuam,</hi> viz. <hi>Comites, Baro<g ref="char:EOLhyphen"/>nes;</hi> but beſides theſe <hi>Two</hi> preceding Con<g ref="char:EOLhyphen"/>ſiderations, there is a <hi>Third</hi> Expedient to reſtrain the King from all unjuſt and exor<g ref="char:EOLhyphen"/>bitant Proceedings.</p>
+               <p>For, as there is a God in Heaven to o<g ref="char:EOLhyphen"/>verawe him; and as there is a Law on Earth to direct him: So likewiſe he hath his <hi>Curia,</hi> to admoniſh and adviſe him, viz. <hi>Comites, Barones, quia Comites dicuntur quaſi Socii Regis;</hi> His Nobility, his Earls and his Barons; who by reaſon of their con<g ref="char:EOLhyphen"/>ſtant attendance at Court, are admitted into a nearer Familiarity with his Majeſty, and are, as it were, the Kings Companions. <hi>Et qui habet Socium, habet Magiſtrum;</hi> and by ſuch Intimacy as this, they are, in ſome ſort, the Superviſors and Cenſors of his A<g ref="char:EOLhyphen"/>ctions; <hi>Et ideo ſi Rex fuerit ſine fraeno,</hi> i. e. <hi>ſine Lege, debent ei fraenum ponere.</hi> If there<g ref="char:EOLhyphen"/>fore the King ſhall omit to obſerve the Laws; 'tis then their Duty to admoniſh him of his neglect; ſaying, SIR, This is
+<pb n="33" facs="tcp:65774:21"/> the Law, this ſhould bridle you; this ſhould limit and direct your Actions. And this doubtleſs they will do, <hi>niſi ipſimet fue<g ref="char:EOLhyphen"/>rint cum Rege ſine fraeno;</hi> unleſs they them<g ref="char:EOLhyphen"/>ſelves have a mind to be lawleſs as well as the King.</p>
+               <p>But if matters ſhould be brought to this paſs, what ſhall then the poor Sub<g ref="char:EOLhyphen"/>jects do? how ſhall their Grievances be redreſs'd? Shall it not then be lawful to take up Arms (in the juſt Defence of King and Kingdom) to remove theſe evil Coun<g ref="char:EOLhyphen"/>cellors from the King? No ſuch matter! <hi>&amp; tunc clamabunt ſubditi &amp; dicent, Domine Ie<g ref="char:EOLhyphen"/>ſu Chriſte, in chamo &amp; fraeno maxillas eorum conſtringe;</hi> Our honeſt <hi>Bracton</hi> allows the Subject no other Arms againſt his Sove<g ref="char:EOLhyphen"/>raign, but the <hi>old Primitive Artillery of Pray<g ref="char:EOLhyphen"/>ers and Tears.</hi>
+               </p>
+               <p>
+                  <hi>Ad quos Dominus, vocabo ſuper eos gentem robuſtam &amp; longinquam &amp; ignotam,</hi> &amp;c. And if the Subjects being under any Oppreſſi<g ref="char:EOLhyphen"/>on, ſhall thus dutyfully refer their cauſe to God, he will then take Care to do them right; and will not only reſtrain, but alſo puniſh their Oppreſſors: As our Author more fully explains to the end of this 16.
+<pb n="34" facs="tcp:65774:22"/> 
+                  <hi>Section,</hi> which I ſhall not need to tranſlate any further, there being no difficulty in it.</p>
+               <p>If this <hi>Paraphrastical</hi> Tranſlation (which I thought would moſt naturally lead us to the true ſence of the words) doth not yet fully remove the Doubt; I ſhall then, for the Readers ſatisfaction, give this fur<g ref="char:EOLhyphen"/>ther Interpretation.</p>
+               <p>BRACTON in this 2<hi>d. Book. Chap.</hi> 16. §. 3. is diſcourſing (as I have already ob<g ref="char:EOLhyphen"/>ſerved) <hi>de Chartis Regiis.</hi> And he tells us; that the <hi>Royal Charters,</hi> when either doubt<g ref="char:EOLhyphen"/>ful or obſcure, are to be determined <hi rend="blackletterType">co<g ref="char:EOLhyphen"/>ram Rege i. e.</hi> in the Courts of <hi>Kings-Bench</hi> and <hi>Chancery.</hi> (For theſe being the <hi>Kings own immediate perſonal Courts,</hi> in one of which the <hi>Kings</hi> of <hi>England</hi> have formerly ſate in Perſon, all <hi>Writs</hi> returnable there run in this Style, <hi>coram nobis;</hi> and all judicial <hi>Re<g ref="char:EOLhyphen"/>cords</hi> there are ſtiled, and <hi>the Pleas</hi> there holden entered <hi>Coram Rege.</hi> And there<g ref="char:EOLhyphen"/>fore this Phraſe in BRACTON <hi>Coram Re<g ref="char:EOLhyphen"/>ge</hi> is, I think warrantably render'd, the Courts of <hi>Kings-Bench</hi> and <hi>Chancery.</hi>
+               </p>
+               <p>Now if the <hi>Plantiff</hi> ſhall ſuſpect, that the Proceedings in theſe <hi>Courts</hi> are not juſt
+<pb n="35" facs="tcp:65774:22"/> and equal, he may then make his <hi>Appeal.</hi> For the <hi>King</hi> hath not only <hi>Legem;</hi> his ordi<g ref="char:EOLhyphen"/>nary Courts of Juſtice, but alſo <hi>Curiam ſuam,</hi> (viz.) <hi>Comites, Barones</hi> His HOUSE OF LORDS. The Cauſe may then be re<g ref="char:EOLhyphen"/>moved by <hi>Writ</hi> of <hi>Error,</hi> or by <hi>Appeal</hi> in<g ref="char:EOLhyphen"/>to the <hi>Houſe of Lords.</hi>
+               </p>
+               <p>But if the <hi>Party</hi> ſhall ſtill complain that he hath not Juſtice; there is then no other Remedy but <hi>Prayers</hi> and <hi>Patience.</hi>
+               </p>
+               <p>For, this <hi>Houſe of Lords</hi> being the Su<g ref="char:EOLhyphen"/>preme and higheſt Court of <hi>Judicature,</hi> no Earthly Appeal can be made any further. <hi>Siſtendum eſt in aliquo.</hi> In all Judicial Pro<g ref="char:EOLhyphen"/>ceedings, <hi>Eccleſiaſtical</hi> and <hi>Civil,</hi> there muſt be <hi>a non ultra.</hi> For, as the <hi>Law</hi> of <hi>Nature</hi> doth inſtruct us, that <hi>Appeals</hi> muſt of neceſſity be allowed (otherwiſe thoſe Injuries which may be occaſion'd, through the Ignorance or Corruption of inferior <hi>Judges</hi> could never be redreſs'd) ſo the ſame Law doth alſo teach us; That <hi>Appeals</hi> muſt not be <hi>Infinite; i. e.</hi> There muſt be ſome <hi>Supreme Power,</hi> in whoſe final Determina<g ref="char:EOLhyphen"/>tion (be it <hi>right,</hi> or be it <hi>wrong)</hi> all <hi>Inferiors</hi> muſt acquieſce and ſubmit. Otherwiſe, no <hi>Controverſies</hi> could be decided; nay,
+<pb n="36" facs="tcp:65774:23"/> there could be no <hi>Government,</hi> nothing but Diſorder and Confuſion in the World.</p>
+               <p>Theſe are my preſent Thoughts of this difficult Paſſage: And whether I have yet given it's proper Sence is humbly ſubmit<g ref="char:EOLhyphen"/>ted to the Impartial Reader. But whether I <hi>have</hi> or have <hi>not;</hi> the <hi>Republican Objector</hi> is again deſired to take notice;</p>
+               <p>That whatever elſe can be the meaning of theſe Words, yet our <hi>Bracton</hi> doth not affirm this <hi>Curia</hi> to be ſuperior to the King; Such an Interpretation being inconſiſtent with <hi>Grammar</hi> as well as <hi>Loyalty.</hi>
+               </p>
+               <p>We have this Rule in our <hi>Syntaxis;</hi> that, <hi>If the Relative be referr'd to two Clauſes or more, then the Relative ſhall be put in the Plural Num<g ref="char:EOLhyphen"/>ber.</hi>
+               </p>
+               <p>If therefore this Relative word <hi>Superior</hi> do refer not only to <hi>Deum,</hi> but alſo to <hi>Le<g ref="char:EOLhyphen"/>gem</hi> and <hi>Curiam,</hi> it ſhould not be <hi>Superiorem</hi> in the <hi>Singular,</hi> but <hi>Superiores</hi> in the <hi>Plu<g ref="char:EOLhyphen"/>ral.</hi>
+               </p>
+               <p>
+                  <hi>Bracton</hi> was not only very learned and judicious as to his <hi>Sence,</hi> but alſo (conſider<g ref="char:EOLhyphen"/>ing the Age he lived in, and the Subject he diſcours'd on) very polite and elegant as to his <hi>Style;</hi> and conſequently we muſt
+<pb n="37" facs="tcp:65774:23"/> not ſuppoſe him guilty of ſo groſs a <hi>Solae<g ref="char:EOLhyphen"/>ciſm,</hi> which the meaneſt <hi>School-Boy</hi> is able to correct.</p>
+               <p>If the Patrons of the Faction, who are very hard to pleaſe, ſhall think fit to Re<g ref="char:EOLhyphen"/>ply; That it is a moſt unuſual and Pedan<g ref="char:EOLhyphen"/>tick Method, to interpret a <hi>Law-Maxim</hi> by a Rule in <hi>Grammar;</hi> and thence are unalte<g ref="char:EOLhyphen"/>rably reſolv'd to inſiſt upon it; That un<g ref="char:EOLhyphen"/>leſs we can explain, in what Sence this <hi>Cu<g ref="char:EOLhyphen"/>ria</hi> is Superior to the King, all that hither<g ref="char:EOLhyphen"/>to hath been ſaid on this occaſion is trifling and exploſive;</p>
+               <p>If, I ſay, theſe <hi>Republicans</hi> will not other<g ref="char:EOLhyphen"/>wiſe be <hi>contented,</hi> let them then take it thus. <hi>Rex habet ſuperiorem—Curiam—</hi>i. e. The King can do more with the Advice and Aſſiſtance of his <hi>Curia</hi> then without it. Or more plainly thus. <hi>The Kings of</hi> England <hi>have more Power and Capacity in Parliament, then out of Parliament.</hi>
+               </p>
+               <p>If this will not ſatisfie. <hi>Cras reſpondebo.</hi> For at preſent, I think fit to add no more in this matter.</p>
+               <p>This paſſage of BRACTON (which hath given us ſo large a Digreſſion) being thus diſpatch'd; we ſhall now return to our former Diſcourſe.</p>
+               <pb n="38" facs="tcp:65774:24"/>
+               <p>'Tis undeniably evident from the Au<g ref="char:EOLhyphen"/>thentick Records of the Kingdom (not to mention private Authorities) <hi>That the King of</hi> England <hi>hath no Superior but God. That His Majeſty did not receive his Authority from any Earthly Power. That he is not Foeudatory, either to the Pope or any other Foreign Prince, much leſs to his own People. That he was not admitted to his Kingdoms with any Limitations or Conditions;</hi> As the Kings of <hi>Poland</hi> and ſome others are. And conſequently, ſince the Terms <hi>Abſolute</hi> and <hi>Conditional</hi> are op<g ref="char:EOLhyphen"/>poſite and contradiſtinct; If the Kings Power and Authority (with reſpect to its Original <hi>Efficient</hi> Cauſe) be neither <hi>Condi<g ref="char:EOLhyphen"/>tional</hi> nor <hi>Dependent,</hi> it is then <hi>Abſolute</hi> as well as <hi>Independent.</hi> And therefore we may ſafely conclude (in this ſence as now explained) <hi>The King of</hi> England <hi>is an ab<g ref="char:EOLhyphen"/>ſolute Monarch.</hi>
+               </p>
+               <p>But here I expect it will be reply'd (and 'tis a very Popular Objection.)</p>
+               <p>That the <hi>Coronation Oath,</hi> in which there is a plain <hi>Contract</hi> and <hi>Bargain</hi> between the <hi>King</hi> and his <hi>People,</hi> doth ſufficiently inti<g ref="char:EOLhyphen"/>mate; That the <hi>Crown</hi> is Conditional, <hi>i. e.</hi> was conferr'd upon his Majeſty with cer<g ref="char:EOLhyphen"/>tain
+<pb n="39" facs="tcp:65774:24"/> Limitations and Conditions. For, the King having promiſed, <hi rend="blackletterType">to keep and defend the Laws and rightful Cuſtoms of the Kingdom,</hi> &amp;c. He is then publickly ſhew'd to the People; and their <hi>conſent</hi> to his Coronation being firſt demanded; he is, by that ſolemn Action, accepted as their King. Plainly inſinuating, that without ſuch a Promiſe on <hi>his</hi> part, he would not have been accepted on <hi>theirs.</hi> And from hence Mr. SIDNEY (a very Authentick Author with ſome men) doth infer; That there is a mutual Compact between the <hi>King</hi> and his <hi>Subjects;</hi> and if the <hi>King</hi> doth not perform his Duty, the <hi>Subjects</hi> are diſcharg'd from <hi>theirs.</hi> His words are theſe, <hi>That thoſe Laws were to be obſerv'd, and the</hi> Oaths <hi>taken by them, having the Force of a</hi> Contract <hi>between Magiſtrate and People, could not be</hi> violated <hi>without dan<g ref="char:EOLhyphen"/>ger of</hi> diſſolving <hi>the whole Fabrick:</hi> Which in plain <hi>Engliſh</hi> is this: If the <hi>King</hi> breaks his Oath, and doth not govern according to <hi>Law;</hi> he then forfeits his Crown, and the People are abſolved from their Obe<g ref="char:EOLhyphen"/>dience.</p>
+               <p>In Anſwer to which, we are to take no<g ref="char:EOLhyphen"/>tice;
+<pb n="40" facs="tcp:65774:25"/> that this plauſible <hi>Objection</hi> is raiſed upon a falſe Foundation, <hi>viz. That the Co<g ref="char:EOLhyphen"/>ronation Oath makes the King;</hi> which is a moſt groſs as well as dangerous Miſtake; the King being as perfect and compleatly <hi>King before</hi> his Coronation as <hi>after.</hi>
+               </p>
+               <p>'Tis a <hi>Maxim</hi> in our Law, <hi>The King ne<g ref="char:EOLhyphen"/>ver dyes:</hi> There being no ſuch thing here in <hi>England</hi> as an <hi>Interregnum.</hi> For the very ſame moment that the <hi>Predeceſſor</hi> deceaſeth, the Rights of <hi>Majeſty</hi> deſcend and fall up<g ref="char:EOLhyphen"/>on the <hi>Succeſſor.</hi> And herein I am inſtructed by thoſe eminent <hi>Lawyers,</hi> the Lord Chan<g ref="char:EOLhyphen"/>cellor <hi>Egerton,</hi> and Sir <hi>Edw. Coke.</hi> By the former thus,</p>
+               <q>The Soveraignty is in the Perſon of the King, <note place="margin">
+                     <hi>L. Chanc.</hi> Egerton <hi>Poſtnat. p</hi> 73.</note> the Crown is but an Enſign of Soveraignty. The Inveſture and Coronation are but Ceremonies of Honour and Majesty. The King is an abſolute and perfect King before he be Crowned, and with<g ref="char:EOLhyphen"/>out thoſe Ceremonies.</q>
+               <p>By the latter in theſe Words: <hi>If the Crown deſcend to the rightful Heir, he is</hi> Rex <note place="margin">
+                     <hi>Cooks</hi> Inſt. <hi>part</hi> 3. <hi>p.</hi> 7.</note> 
+                  <hi>before Coronation. For by the Law of</hi> England <hi>there is no</hi> interregnum: <hi>and Coronation is but an Ornament or Solemnity of Honour. And ſo it was reſolv'd by all the Judges,</hi> Hil. 1. Jac. <hi>in the</hi>
+                  <pb n="41" facs="tcp:65774:25"/> 
+                  <hi>Caſe of</hi> Watſon <hi>and</hi> Clark <hi>Seminary Prieſts: For by the Law there is always a King, in whoſe name the Laws are to he maintain'd and executed, otherwiſe Justice ſhould fail.</hi> Thus he,</p>
+               <p>But that I may effectually convince our <hi>Aſſociators</hi> of their miſtake in this matter, I thus argue <hi>ad hominem.</hi>
+               </p>
+               <p>Was his preſent Majeſty <hi>actually</hi> King <hi>(i. e.</hi> King <hi>de facto</hi> as well as <hi>de jure)</hi> before his Coronation, or was he not?</p>
+               <p>If they acknowledg that he <hi>was;</hi> the Cauſe is then decided. But if they ſay he was <hi>not;</hi> I muſt then remind them of ano<g ref="char:EOLhyphen"/>ther point of <hi>Law,</hi> laid down by that <hi>O<g ref="char:EOLhyphen"/>racle of the Law</hi> in the preceding words, <hi>a Pardon granted by a King</hi> de jure, <hi>that is not alſo</hi> de facto <hi>is void.</hi> Now when they have firſt conſider'd; That the <hi>Act of Oblivion</hi> was made before the King was <hi>Crown'd,</hi> I ſhall then leave it to themſelves to deter<g ref="char:EOLhyphen"/>mine the Caſe.</p>
+               <p>Doubtleſs upon <hi>ſecond</hi> Thoughts which are uſually the beſt, they will readily con<g ref="char:EOLhyphen"/>feſs; That his preſent <hi>Majeſty</hi> was <hi>actually</hi> King before his <hi>Coronation;</hi> and conſequent<g ref="char:EOLhyphen"/>ly, That the Oath which he then took, was not any <hi>Condition</hi> preparatory to his admit<g ref="char:EOLhyphen"/>tance to the <hi>Kingly</hi> Power.</p>
+               <pb n="42" facs="tcp:65774:26"/>
+               <p>
+                  <hi>Coronation</hi> then <hi>is but a Ceremony, and no part of his Title:</hi> I ſay, it is but a <hi>Ceremony;</hi> and yet (that I may remove ſome imperti<g ref="char:EOLhyphen"/>nent Scruples againſt it) it is no trifling, in<g ref="char:EOLhyphen"/>ſignificant Ceremony: For,</p>
+               <p>
+                  <hi>Firſt,</hi> The ſolemn <hi>Splendor</hi> in which the <hi>King</hi> appears in that Action (the generali<g ref="char:EOLhyphen"/>ty of People being much affected with outward <hi>Pomp)</hi> doth naturally make Im<g ref="char:EOLhyphen"/>preſſions of awe and reverence towards his <hi>Perſon.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> The <hi>Oath</hi> which he then takes, may expel all jealous Fears; diſpoſing his <hi>Subjects</hi> chearfully to ſubmit to his future <hi>Government.</hi> For when the King (who is not reſponſible to <hi>them</hi> for any of <hi>his</hi> Acti<g ref="char:EOLhyphen"/>ons) ſhall condeſcend thus <hi>publickly</hi> to pro<g ref="char:EOLhyphen"/>miſe his People, in the Preſence of that God who gave him his Truſt (and to whom alone he muſt render an Account for the management of it) That he will govern his Subjects according to <hi>Law;</hi> That he will preſerve <hi>Religion</hi> from Here<g ref="char:EOLhyphen"/>ſy and Schiſm; defend their <hi>Perſons</hi> from wrong and violence; ſecure their <hi>Eſtates</hi> from Fraud and Rapine: Such aſſurance as this, muſt needs enlarge their Affecti<g ref="char:EOLhyphen"/>ons
+<pb n="43" facs="tcp:65774:26"/> to their Prince; make their ſubmiſſion more hearty; their Obedience more chear<g ref="char:EOLhyphen"/>ful, ſince under his Government (if it is not their own Fault) they may rationally expect to <hi>live a quiet and peaceable Life in all Godlineſs and Honeſty.</hi>
+               </p>
+               <p>It appears, I hope, from theſe Premi<g ref="char:EOLhyphen"/>ſes (notwithſtanding this or any other Ob<g ref="char:EOLhyphen"/>jection to the contrary) That the Kings Power, in reſpect of it's Original, is <hi>Abſo<g ref="char:EOLhyphen"/>lute,</hi> i. e. He received it from none but God. Neither from the <hi>Pope,</hi> nor any other <hi>For<g ref="char:EOLhyphen"/>raign Prince,</hi> much leſs from his own Peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>But now when we ſpeak of the Kings Authority, with reſpect to the <hi>Execution</hi> and <hi>Administration</hi> of it, the Caſe is very different. For the Kings of <hi>England,</hi> out of their abundant Grace and Favour, and to make their <hi>Government</hi> more eaſie and acceptable to their Subjects, have ſuffer'd themſelves to be ſo limited in the <hi>Exerciſe</hi> of their Power; That they can neither make <hi>Laws,</hi> nor raiſe <hi>Taxes</hi> but in <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> much leſs can they pretend to take away the <hi>Life,</hi> or diſpoſe of the <hi>Eſtate</hi> of the meaneſt of their Subjects but by due
+<pb n="44" facs="tcp:65774:27"/> courſe of <hi>Law:</hi> And therefore in this <hi>ſe<g ref="char:EOLhyphen"/>cond</hi> Conſideration of his Authority, <hi>viz.</hi> the <hi>Execution</hi> and <hi>Adminiſtration</hi> of it; <hi>The King of</hi> England <hi>is not an Abſolute but a limi<g ref="char:EOLhyphen"/>ted Monarch.</hi>
+               </p>
+               <p>And indeed, if theſe <hi>Republicans</hi> were not much more forward, to remind the <hi>King</hi> of his Duty than to diſcharge their <hi>own,</hi> theſe things did not need to be repea<g ref="char:EOLhyphen"/>ted. For the <hi>King</hi> hath very often moſt gratiouſly promiſed; That he will govern by, and according to, the Laws of the Land and not otherwiſe: And that he will uſe the Power, Truſt and Office commit<g ref="char:EOLhyphen"/>ted to him, for the good and benefit of the <hi>People,</hi> and for the preſervation of their Rights and Liberties. All this is rea<g ref="char:EOLhyphen"/>dily granted, in the very words of the <hi>Objectors.</hi>
+               </p>
+               <p>Only this Phraſe, <hi>That he will govern according to the Laws, <hi rend="blackletterType">and not otherwiſe</hi>
+                  </hi> for the avoiding of miſtakes, muſt be a little explained.</p>
+               <p>There are ſome Men, either through Ignorance or Malice, who have fancied; becauſe the King is obliged to govern <hi>by Law,</hi> that therefore he muſt always <hi>act</hi>
+                  <pb n="45" facs="tcp:65774:27"/> according to the <hi>Letter</hi> of it: So as that it ſhall not be in his Power, <hi>for inſtance</hi> (eſpecially when it is their <hi>Interest</hi> to re<g ref="char:EOLhyphen"/>ſtrain him) either to <hi>Pardon</hi> Capital Offen<g ref="char:EOLhyphen"/>ders; to <hi>Change</hi> the manner of their Death; or to <hi>mitigate</hi> the rigour of the Law on a<g ref="char:EOLhyphen"/>ny other occaſion. And, <hi>in fine,</hi> theſe con<g ref="char:EOLhyphen"/>fident <hi>Reformers</hi> (who trade in <hi>Poſt-ſcripts</hi> more than <hi>Bracton)</hi> do talk of the <hi>Kings Prerogative</hi> at ſuch a rate; as if it were an <hi>Arbitrary, Illegal Encroachment;</hi> and are ſo extravagant as to fancy; That by dimi<g ref="char:EOLhyphen"/>niſhing the <hi>Kings Prerogative,</hi> they advance the <hi>Laws;</hi> and that to oppoſe the <hi>King,</hi> is to defend the <hi>Kingdom.</hi>
+               </p>
+               <p>In charity therefore to theſe men, and to rectify their miſtakes, I ſhall briefly lay down the nature of the Kings <hi>Preroga<g ref="char:EOLhyphen"/>tive:</hi> What it is? how it comes to be E<g ref="char:EOLhyphen"/>ſtabliſh'd? And whether, as is pretended, it be deſtructive to <hi>the Liberty of the Sub<g ref="char:EOLhyphen"/>ject.</hi>
+               </p>
+               <p>The Word <note n="(a)" place="margin">Ju<g ref="char:EOLhyphen"/>reconſ. <hi>hac voce varie utuntur: modo pro authoritate &amp; eminen<g ref="char:EOLhyphen"/>tia: quadam modo pro jure quo<g ref="char:EOLhyphen"/>dam praeci<g ref="char:EOLhyphen"/>puo, ſpecia<g ref="char:EOLhyphen"/>li ſeu privi<g ref="char:EOLhyphen"/>legio,</hi> Gal. Lex Jurid. verb <hi>Prae<g ref="char:EOLhyphen"/>rogat.</hi>
+                  </note> 
+                  <hi>Prerogative</hi> (to omit other Significations Foreign to our purpoſe) doth properly denote; <hi>ſome ſpecial peculi<g ref="char:EOLhyphen"/>ar Priviledg or Preheminence, granted by Law.</hi> Hence the <hi>Kings Prerogative</hi> is very fitly
+<pb n="46" facs="tcp:65774:28"/> ſtyled by Sir <hi>H.</hi> 
+                  <note n="(b)" place="margin">
+                     <hi>Spelm. Gloſs.</hi> Praerog. <hi>verb.</hi>
+                  </note> SPELMAN, <hi>Lex Regiae Dignitatis,</hi> which in <note n="(c)" place="margin">1 <hi>Inſtit. cap.</hi> 5. <hi>ſect.</hi> 125. <hi>p.</hi> 90.</note> Sir <hi>Edw. Cooks</hi> words may be thus Tranſlated. <hi>The Royal Pre<g ref="char:EOLhyphen"/>rogative legally extends to all Powers, Prehemi<g ref="char:EOLhyphen"/>nences and Priviledges, which the</hi> Law <hi>giveth to the Crown.</hi> And <hi>Littleton,</hi> ſaith our Au<g ref="char:EOLhyphen"/>thor, <hi>ſpeaketh of the Kings Prerogative but twice in all his Books,</hi> viz. §. 125 &amp; 128. <hi>and in both places as part of the Laws of</hi> En<g ref="char:EOLhyphen"/>gland.</p>
+               <p>From whence our <hi>new Politicians</hi> may pleaſe to obſerve. <hi>That the Kings Preroga<g ref="char:EOLhyphen"/>tive is establiſhed by Law;</hi> and his Majeſty hath as good Law for his Royal Preroga<g ref="char:EOLhyphen"/>tives. viz. <hi>The deſcent of the Crown to the next in Blood: The Power of Calling and Diſſolv<g ref="char:EOLhyphen"/>ing Parliaments: The Negative Voice: The Power of the Militia: Pardoning Offenders,</hi> &amp;c. I ſay His <hi>Majeſty</hi> hath as good <hi>Law</hi> for theſe and all other his <hi>Prerogatives,</hi> as any <hi>Subject</hi> hath for his <hi>Paternal Eſtate.</hi>
+               </p>
+               <p>Whoever therefore ſhall preſume to di<g ref="char:EOLhyphen"/>ſpute theſe <hi>Priviledges</hi> of the <hi>Crown,</hi> he muſt not think me uncharitable whilſt I tell him, He is an <hi>Enemy</hi> to the fundamen<g ref="char:EOLhyphen"/>tal Laws of <hi>England,</hi> and a <hi>Betrayer</hi> of the Rights of the Kingdom.</p>
+               <pb n="47" facs="tcp:65774:28"/>
+               <p>If the Caſe be thus, may ſome ſay; If theſe <hi>Royal Prerogatives</hi> are ſo ſacred as not to be touch'd; it would then be a very ſuitable undertaking to enlarge your, <hi>&amp;c.</hi> and to acquaint us more diſtinctly what they are, and where we may find them.</p>
+               <p>In anſwer to which Demand we are thus inſtructed by that Loyal Judge JEN<g ref="char:EOLhyphen"/>KINS, <note n="(a)" place="margin">
+                     <hi>Jenk. Rediv.</hi> p. 136.</note> 
+                  <hi>The Kings Prerogative and the Subjects Liberty are determined and bounded, and admeaſured by the written Law what they are. We do not hold the King to have any more Power, neither doth his Majeſty claim any other but what the Law gives him.</hi>
+               </p>
+               <p>The right method therefore to be in<g ref="char:EOLhyphen"/>form'd in this matter, is to ſearch the writ<g ref="char:EOLhyphen"/>ten Laws, with the learned Interpretati<g ref="char:EOLhyphen"/>ons upon them. For though theſe Sta<g ref="char:EOLhyphen"/>tutes are not <hi>Conſtitutive</hi> of the Royal Pre<g ref="char:EOLhyphen"/>rogatives <hi>(All</hi> 
+                  <note n="(b)" place="margin">
+                     <hi>Jenk. Rediv.</hi> p. 4.</note> 
+                  <hi>Kings had them; the ſaid Powers have no beginning; i. e.</hi> They are ſo antient we cannot trace their Original) yet they are <hi>Declaratory</hi> of them.</p>
+               <p>I ſay, though theſe Priviledges of the Crown are moſt of them <hi>antecedent</hi> to our <hi>Acts</hi> of Parliament, and the <hi>written</hi> deter<g ref="char:EOLhyphen"/>mined Caſes of our Laws (and conſequent<g ref="char:EOLhyphen"/>ly
+<pb n="48" facs="tcp:65774:29"/> are not primarily eſtabliſhed by them) yet they are ſo often either explained, con<g ref="char:EOLhyphen"/>firm'd, or otherwiſe there mention'd; that he who is converſant in thoſe publick Wri<g ref="char:EOLhyphen"/>tings muſt needs know what they are?</p>
+               <p>But ſince every one hath not the <hi>Leiſure</hi> or the <hi>Ability</hi> for ſo laborious a Task; thoſe therefore who ſhall deſire <hi>Compendio ſapere,</hi> they may pleaſe to peruſe a little Treatiſe called <hi>Jura Coronae;</hi> or <hi>His Majeſties Royal Rights and Prerogatives Aſſerted.</hi> And amongſt ſeveral others there mentioned and explai<g ref="char:EOLhyphen"/>ned, they will find this Prerogative.</p>
+               <p>That the King hath Power, in many ca<g ref="char:EOLhyphen"/>ſes, to Diſpenſe with the Laws: And that <hi>no</hi> 
+                  <note n="(a)" place="margin">
+                     <hi>Jur. Coron.</hi> p. 84.</note> 
+                  <hi>Act of Parliament can bind the King from any Prerogative, that is ſolely and inſeparably an<g ref="char:EOLhyphen"/>next to his Sacred Perſon and Royal Power; but that he may diſpenſe with it by a</hi> non obſtante.</p>
+               <p>The Reaſon of which <hi>Prerogative</hi> (which to ſome unthinking Men may ſeem extra<g ref="char:EOLhyphen"/>vagant) is plainly this.</p>
+               <p>All human Conſtitutions are liable to Defects: And there was never any <hi>Law</hi> yet framed with ſuch <hi>Policy</hi> and Skill, which might not, on ſome occaſion or other, be burthenſome to the <hi>Subject.</hi> For particular
+<pb n="49" facs="tcp:65774:29"/> Caſes and Contingencies are ſo infinitely various, that it is impoſſible for <hi>human</hi> Wiſ<g ref="char:EOLhyphen"/>dom to foreſee or prevent them.</p>
+               <p>And therfore it is abſolutely neceſſary; That there ſhould in all Governments be ſome <hi>Power,</hi> Superior and <hi>Paramount</hi> to the written Laws: By whoſe Authority the Subject might be reliev'd and pardon'd; when the nice and ſtrict Obſervance of the Law (through ſome unexpected Event) might be grievous to <hi>himſelf,</hi> or deſtructive to the <hi>Publick.</hi> And <note n="(b)" place="margin">Biſh. <hi>Sander<g ref="char:EOLhyphen"/>ſons</hi> Judg. of ſubm. to Uſurp. <hi>p.</hi> 18.</note> 
+                  <hi>this Power of diſ<g ref="char:EOLhyphen"/>penſing with particular Laws</hi> (as the learned Biſhop <hi>Sanderſon</hi> informs us) <hi>is ſuch a Pre<g ref="char:EOLhyphen"/>rogative, as without which no Commonwealth can be well govern'd; but Juſtice would be turn'd in<g ref="char:EOLhyphen"/>to Gall and Wormwood: Nor can the Supream Governor, without Forfeiture of that Faithful<g ref="char:EOLhyphen"/>neſs which he oweth to the Publick-Weal diveſt himſelf thereof.</hi>
+               </p>
+               <p>If ſome Men (who are very unwilling to give the <hi>King</hi> his Due) are ſtill diſſatisfi<g ref="char:EOLhyphen"/>ed in the point; the preſent poſture of Af<g ref="char:EOLhyphen"/>fairs here in <hi>England</hi> may then fully con<g ref="char:EOLhyphen"/>vince them.</p>
+               <p>We all know that according to the Law <hi>High-Treaſon</hi> is puniſhable with
+<pb n="50" facs="tcp:65774:30"/> Death. And the Judgment of the Court, on ſuch occaſions, is to be <hi>Hang'd, Drawn and Quarter'd.</hi> This is Law. Let me therefore ask theſe Men. Can the <hi>King</hi> by his <hi>Prero<g ref="char:EOLhyphen"/>gative</hi> diſpenſe with this Law, ſo as to free the <hi>Criminal</hi> from the Puniſhment <hi>(a Toto</hi> or <hi>a Tanto)</hi> or can he not? If they ſay <hi>not. Ip<g ref="char:EOLhyphen"/>ſi viderint.</hi> Let them look to that who are moſt deeply concern'd.</p>
+               <p>But if now at the laſt they are grown ſo conſiderate, as to ſay that he <hi>can:</hi> Give me leave then to expoſtulate with them, con<g ref="char:EOLhyphen"/>cerning that late Inſtance of the unfortu<g ref="char:EOLhyphen"/>nate <hi>Lord Stafford.</hi>
+               </p>
+               <p>When his <hi>Majeſty,</hi> out of Compaſſion to that <hi>Noblemans</hi> Perſon and reſpect to his <hi>Quality,</hi> had changed the manner of his Death, and given him the favour to be Beheaded: What a noiſe was then raiſed, <hi>That the Law muſt be obſerv'd?</hi> What Fears and Apprehenſions of <hi>Arbitrary Power!</hi> What a Tumult did thoſe <hi>ſcrupulous She<g ref="char:EOLhyphen"/>riffs</hi> make on that occaſion, by Petitioning the <hi>Two Houſes;</hi> Whether the Kings <hi>Writ</hi> ought to be obey'd? But what Anſwer they receiv'd both from <hi>Lords</hi> and <hi>Commons</hi> is ſufficiently known.</p>
+               <pb n="51" facs="tcp:65774:30"/>
+               <p>I ſhall make no <hi>Reflections</hi> upon it, tho indeed the Impertinence of that Action (in which I doubt they were encourag'd by ſome greater than themſelves) might deſerve a <hi>Remark.</hi>
+               </p>
+               <p>From theſe Premiſes it is evident, That there is <hi>Lex Coronae,</hi> a Royal Prerogative granted by the Common Law to the Crown of <hi>England, Superior</hi> to all written Laws. By virtue of which <hi>Prerogative-Law,</hi> the King hath Authority (on emer<g ref="char:EOLhyphen"/>gent occaſions, and when ſuch <hi>Diſpenſati<g ref="char:EOLhyphen"/>on</hi> may promote the ends of Government) to <hi>Diſpenſe</hi> with moſt <hi>Statutes</hi> or <hi>Acts</hi> of Parliament. <hi>Salus populi ſuprema Lex eſto;</hi> when rightly underſtood is a full proof of this Aſſertion.</p>
+               <p>As therefore on the one hand;</p>
+               <p>When <hi>Sedition</hi> is rampant, and <hi>affronts</hi> the Government; when the <hi>Mercy</hi> of a King ſhall be voted his <hi>weakneſs;</hi> and his Royal compaſſion and unwillingneſs to <hi>Puniſh,</hi> ſhall have this Gloſs put upon it; <hi>He dares not do it.</hi>
+               </p>
+               <p>As in ſuch a Caſe, Reaſon of State (which is <hi>Salus Populi)</hi> doth require; That ſome ſhould be executed <hi>in terrorem;</hi> to re<g ref="char:EOLhyphen"/>preſs
+<pb n="52" facs="tcp:65774:31"/> the inſolence of others; So on the other hand,</p>
+               <p>When Tumults are abated; when Fa<g ref="char:EOLhyphen"/>ction is broken, and that Men begin to ac<g ref="char:EOLhyphen"/>knowledg their Miſtakes, and return to their Wits: If under ſuch inviting Circum<g ref="char:EOLhyphen"/>ſtances as theſe, the King out of his Grace and Mercy, ſhall either <hi>Pardon</hi> a Traitor, or abate the <hi>rigour</hi> of his Sentence, who will pretend to ſay, that ſuch undeſerved Favour is <hi>Illegal?</hi> Or that the King, whe<g ref="char:EOLhyphen"/>ther he <hi>pardon</hi> or <hi>puniſh,</hi> doth not <hi>govern,</hi> in both Inſtances, <hi>according to Law?</hi>
+               </p>
+               <p>The Objectors go on.</p>
+               <p>
+                  <hi>If the King thus entruſted to keep the Laws and preſerve Religion, ſhould be guilty of a wicked Deſign, to ſubvert our Laws, and de<g ref="char:EOLhyphen"/>stroy our Religion, by introducing an Arbitrary, Tyrannical Government; he muſt then under<g ref="char:EOLhyphen"/>ſtand, that he is but an <hi rend="blackletterType">Officer of Truſt.</hi>
+                  </hi>
+               </p>
+               <p>All this is granted; If the word <hi rend="blackletterType">Truſt</hi> do only refer to <hi>Almighty God,</hi> but not to the <hi>People.</hi>
+               </p>
+               <p>The <hi>King</hi> doth chearfully acknowledg, that he is <hi>Authoriz'd</hi> and Deputed by the <hi>moſt High,</hi> to govern theſe Nations; and that he muſt render an Account for ſo
+<pb n="53" facs="tcp:65774:31"/> great a Truſt committed to his charge. And though the King hath many Enemies, both <hi>Spiritual</hi> and <hi>Temporal,</hi> yet his Support is this. He who gave him his <hi>Commisſion</hi> is able to Protect him. He hath hitherto very ſignally preſerv'd him. And it is the conſtant, hearty <hi>Prayer</hi> of all Loyal Sub<g ref="char:EOLhyphen"/>jects; That his God, and the God of his <hi>Fathers</hi> will preſerve him ſtill. His Majeſty hath indeed many <hi>Enemies</hi> (and good Prin<g ref="char:EOLhyphen"/>ces did never want them) but <hi>in the Mercy of the most High he ſhall not miſcarry.</hi>
+               </p>
+               <p>But if this <hi rend="blackletterType">Truſt</hi> do refer to the <hi>People,</hi> as if the Kings Power and Authority were derived to him from the <hi>People</hi> by way of <hi>Pact</hi> or <hi>Contract:</hi> Let them then explain, <hi>Who</hi> are this People, with whom he did thus Contract? <hi>When</hi> was this Bargain made? <hi>What</hi> are the Conditions? <hi>Before</hi> what Witneſſes? <hi>Who</hi> muſt <hi>Judge</hi> of the Delinquency? <hi>VVhere</hi> are the <hi>Records</hi> of theſe Tranſactions to be peruſed?</p>
+               <p>If no Evidence to confirm any of theſe Inſtances; the Caſe is then decided by that known Maxim, <hi>Idem est non eſſe &amp; non ap<g ref="char:EOLhyphen"/>parere.</hi> This <hi>Fundamental Contract of the Na<g ref="char:EOLhyphen"/>tion,</hi> is only a hard Word to amuſe the
+<pb n="54" facs="tcp:65774:32"/> vulgar. We know not <hi>what</hi> it is, nor <hi>where</hi> to find it.</p>
+               <p>But it follows in the Objection.</p>
+               <q>The Parliament of England (the Repreſenta<g ref="char:EOLhyphen"/>tives of the People, in whom all Power doth O<g ref="char:EOLhyphen"/>riginally reſide) they are to take Order for the A<g ref="char:EOLhyphen"/>nimadverſion and Puniſhment of ſuch an Offen<g ref="char:EOLhyphen"/>ding Governour. Parliaments were ordain'd to re<g ref="char:EOLhyphen"/>ſtrain the exorbitant Power of Kings and to re<g ref="char:EOLhyphen"/>dreſs the Grievances of the People.</q>
+               <p>The Sum of which charge is this.</p>
+               <p>
+                  <hi>There is a Coercive Power over the King. Which</hi> Power (Mr. <hi>SIDNEY tells us)</hi> Originally in the People of England, is dele<g ref="char:EOLhyphen"/>gated <note place="margin">Sidney's <hi>Tryal.</hi> p. 23.</note> unto the Parliament.</p>
+               <p>To which I do thus Anſwer.</p>
+               <p>That though his <hi>Majeſty</hi> hath a juſt eſteem for <hi>Parliaments;</hi> and thinks the Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> the happieſt Conſtitu<g ref="char:EOLhyphen"/>tion that ever <hi>Nation</hi> did enjoy; and hath gratiouſly aſſur'd us; That no <hi>Irregularities</hi> of Parliaments, ſhall make him out of Love with <hi>Parliaments;</hi> but that he will have frequent <hi>Parliaments:</hi> Yet ſuch an ex<g ref="char:EOLhyphen"/>travagant Power of Parliaments as is here pretended, is ſuch height of <hi>Treaſon;</hi> as deſerves a <hi>ſharper</hi> Confutation than can be given it from this Treatiſe.</p>
+               <pb n="55" facs="tcp:65774:32"/>
+               <p>As to the point of <hi>Non-Reſiſtance</hi> (moſt ſeaſonable to be enforc'd at this time) I did once deſign very fully to have enlarg'd upon it. To have ſhew'd its Obligation from all Laws <hi>Natural, Poſitive, Divine, Human.</hi> As alſo to have Anſwer'd the moſt Popular <hi>Pleas</hi> for ſuch <hi>Reſiſtance.</hi> But I am ſo happily prevented by the Learned Labours of others (particularly my <hi>Lord Biſhop of VVinchester,</hi> Dr. <hi>Falkner</hi> and Dr. <hi>Sherlock;</hi> who have indeed exhauſted that Subject) that I ſhall give no further trou<g ref="char:EOLhyphen"/>ble; but conclude my ſhort Diſcourſe with this following Argument.</p>
+               <list type="syllogism">
+                  <item>
+                     <hi>The Supream Power muſt not be reſiſted;</hi>
+                  </item>
+                  <item>
+                     <hi>But the King of England hath Supreme Power;</hi>
+                  </item>
+                  <item>
+                     <hi>Therefore His Majeſty cannot lawfully be reſiſted.</hi>
+                  </item>
+               </list>
+               <p>The <hi>Propoſition</hi> is the voice of Nature. There can be no <hi>Order</hi> nor Government, unleſs this Truth be admitted. Reaſon tells us; <hi>Par in parem non habet poteſtatem,</hi> much leſs hath an Inferior a Coercive Power o<g ref="char:EOLhyphen"/>ver his Superior.</p>
+               <p>To which let me obſerve; That even the late <hi>Rebels</hi> themſelves were convinc'd in this matter. For, to vindicate their for<g ref="char:EOLhyphen"/>mer <hi>Treaſons,</hi> and to patronize their inten<g ref="char:EOLhyphen"/>ded
+<pb n="56" facs="tcp:65774:33"/> 
+                  <hi>Murder</hi> of that <hi>Bleſſed Prince,</hi> they vo<g ref="char:EOLhyphen"/>ted, <hi>Jan.</hi> 4. 1648. Reſolv'd, <hi>That the People are (under God) the Original of all just Powers. That the Commons of England Aſſembled in Par<g ref="char:EOLhyphen"/>liament, being choſen by, and repreſenting the People, have the Supreme Power in the Nation. That whatſoever is Enacted or declared for Law by the Commons in Parliament hath the Force of a Law, and the People concluded thereby, though conſent of King and Peers be not had thereunto.</hi>
+               </p>
+               <p>Plainly inſinuating, That whilſt the Subjects of <hi>England,</hi> according to their Duty, did acknowledg the <hi>Supreme Power</hi> to be in the <hi>King,</hi> they muſt needs appre<g ref="char:EOLhyphen"/>hend, That the <hi>War</hi> was <hi>Rebellion;</hi> and his pretended <hi>Judges</hi> were <hi>Traitors.</hi>
+               </p>
+               <p>And as to the <hi>Aſſumption,</hi> viz.</p>
+               <p>
+                  <hi>That the King of England hath Supreme Pow<g ref="char:EOLhyphen"/>er;</hi> this, I hope, hath been ſo fully prov'd in this little Treatiſe, that I might ſuppoſe the <hi>Concluſion</hi> without any further Enlarge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>But becauſe ſome late Seditious <hi>Pam<g ref="char:EOLhyphen"/>phlets</hi> have very impertinently advanc'd the <hi>Power</hi> of Parliaments; I ſhall, <hi>ex abundan<g ref="char:EOLhyphen"/>ti,</hi> thus undeniably convince them, <hi>That the Parliament of</hi> England <hi>is Subject to the</hi> King.</p>
+               <pb n="57" facs="tcp:65774:33"/>
+               <p>Mr. SIDNEY Informs us, <hi>That the</hi> 
+                  <note place="margin">
+                     <hi>Sidney</hi>'s Paper <hi>p.</hi> 2.</note> 
+                  <hi>Right and Power of Magiſtrates in every Coun<g ref="char:EOLhyphen"/>try, is that which the Laws of that Country make it to be.</hi> If therefore it do appear by the <hi>Laws</hi> and <hi>Statutes</hi> of the <hi>Kingdom, That the Parliament of</hi> England <hi>is Subject to the King,</hi> then the Controverſy is at an End.</p>
+               <p>For Proof of this, they are deſired to Conſult, 12 <hi>Car.</hi> 2. <hi>c.</hi> 30. Where the <hi>Lords</hi> and <hi>Commons</hi> thus Petitioned to his <hi>Majeſty.</hi>
+               </p>
+               <q>We your Majeſties ſaid Dutiful and Loyal Subjects, the Lords and Commons in Parliament Aſſembled, do beſeech your moſt Excellent Majeſty that it may be De<g ref="char:EOLhyphen"/>clared; That by the undoubted and funda<g ref="char:EOLhyphen"/>mental Laws of this Kingdom, neither the Peers of this Realm, nor the Com<g ref="char:EOLhyphen"/>mons, nor both together in Parliament, nor the People Collectively or Repreſenta<g ref="char:EOLhyphen"/>tively, nor any other Perſons whatſoever ever had, have, hath or ought to have any Coercive Power over the Perſons of the Kings of this Realm.</q>
+               <p>Words ſo plain and undeniably evident that they are not capable of any further Explication.</p>
+               <p>Only it will be pertinent to obſerve <hi>Two</hi> Things.</p>
+               <pb n="58" facs="tcp:65774:34"/>
+               <p>
+                  <hi>Firſt,</hi> the <hi>Lords</hi> and <hi>Commons</hi> do not here petition, that it may be <hi>Enacted,</hi> but that it may be <hi>Declared;</hi> intimating that the Kings Supremacy was not <hi>firſt</hi> eſtabliſh'd in this <hi>Statute</hi> (as if before the making of this <hi>Act,</hi> the Parliament had been Superior to the King) but is here only <hi>Declared</hi> to have been <hi>Eſtabliſh'd</hi> by the undoubted Funda<g ref="char:EOLhyphen"/>mental Laws of this Kingdom; <hi>i. e.</hi> by ſuch Laws as are the Foundation of the Go<g ref="char:EOLhyphen"/>vernment. Whoever therefore ſhall Af<g ref="char:EOLhyphen"/>firm, That the Parliament hath a Coer<g ref="char:EOLhyphen"/>cive Power over the Perſon of the King, he alters the <hi>Foundation</hi> and <hi>destroys</hi> the Go<g ref="char:EOLhyphen"/>vernment.</p>
+               <p>
+                  <hi>Secondly,</hi> I do from this Statute obſerve, That their famous Axiom, <hi>major ſingulis, minor univerſis,</hi> will no longer ſupport their Cauſe, it being plain from this <hi>Act;</hi> That the King is <hi>major univerſis</hi> as well as <hi>ſingu<g ref="char:EOLhyphen"/>lis.</hi>
+               </p>
+               <p>When our <hi>Republican Clubs,</hi> who talk ſo much of <hi>Law,</hi> ſhall have anſwer'd this <hi>Statute;</hi> they may then expect to hear fur<g ref="char:EOLhyphen"/>ther from me.</p>
+               <p>In <hi>th' interim,</hi> I ſhall recommend a <hi>Text,</hi> to be held forth in all their <hi>Conventicles,</hi> the
+<pb n="59" facs="tcp:65774:34"/> next time of their meeting.</p>
+               <q>
+                  <bibl>
+                     <hi>Prov.</hi> 24. 21, 22.</bibl>
+                  <p>
+                     <hi>My Son, fear thou the Lord and the King, and meddle not with them that are given to change.</hi>
+                  </p>
+                  <p>For their Calamity ſhall riſe ſuddainly, and who knoweth the ruin of them both?</p>
+               </q>
+               <p>From whence may be raiſed theſe good Obverſations, <hi>viz.</hi>
+               </p>
+               <q>Honeſty is the beſt Policy, and Loyalty the beſt Religion.</q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb facs="tcp:65774:35"/>
+            <head>THE PARALLEL.</head>
+            <div type="part">
+               <head>DOLEMAN</head>
+               <p>THERE can be no doubt but that the <hi>Common-Wealth</hi> hath Power to <hi rend="blackletterType">chuſe their own fa<g ref="char:EOLhyphen"/>ſhion of Government,</hi> as alſo to <hi rend="blackletterType">change</hi> the ſame upon reaſonable Cauſes. In like manner is it evident, that as the Common-Wealth hath this Authority to chuſe and change her Government, ſo hath ſhe alſo to <hi rend="blackletterType">limit the ſame with what Laws and Conditions ſhe pleaſeth. Confe<g ref="char:EOLhyphen"/>rence about Succeſſion.</hi> Part. 1. cap. 1. pag, 12, 13.</p>
+               <p>All Law, both Natural, National and Poſitive doth teach us; That Prin<g ref="char:EOLhyphen"/>ces are ſubject to Law and Order, and that the <hi rend="blackletterType">Common-Wealth</hi> which <hi rend="blackletterType">gave</hi> them their Authority for the Common good of all, may alſo <hi rend="blackletterType">re<g ref="char:EOLhyphen"/>ſtrain</hi> or <hi rend="blackletterType">take the ſame away again,</hi> if they abuſe it to the Common-evil. The <hi rend="blackletterType">whole Body,</hi> though it be go<g ref="char:EOLhyphen"/>verned by the Prince, as by the Head, yet is it not Inferior but <hi rend="blackletterType">Superior to the Prince.</hi> Neither ſo <hi rend="blackletterType">giveth</hi> the Common-wealth <hi rend="blackletterType">her Authority</hi> and Power up to any Prince, that ſhe <hi rend="blackletterType">depriveth</hi> her ſelf utterly of the ſame, when need ſhall require, <hi rend="blackletterType">to uſe it for her defence,</hi> for which ſhe gave it. <hi>Part. 1ſt. cap.</hi> 4. <hi>p.</hi> 72.</p>
+               <p>And finally the Power and Autho<g ref="char:EOLhyphen"/>rity which the Prince hath from the Common-wealth is in very Truth, not <hi rend="blackletterType">Abſolute</hi> but <hi>Poteſtas vicaria &amp; delega<g ref="char:EOLhyphen"/>ta,</hi> i. e. a Power <hi rend="blackletterType">Delegate,</hi> or Power by <hi rend="blackletterType">Commiſſion from the Common-Wealth,</hi> which is given with ſuch Re<g ref="char:EOLhyphen"/>ſtrictions, Cautels and <hi rend="blackletterType">Conditions,</hi> yea with ſuch plain Exceptions, Pro<g ref="char:EOLhyphen"/>miſes and <hi rend="blackletterType">Oaths</hi> of both Parties (I mean between the <hi rend="blackletterType">King</hi> and <hi rend="blackletterType">Com<g ref="char:EOLhyphen"/>mon-wealth,</hi> at the day of his Ad<g ref="char:EOLhyphen"/>miſſion or Coronation) as if the ſame be not kept but wilfully <hi rend="blackletterType">broken on ei<g ref="char:EOLhyphen"/>ther Part,</hi> then is the <hi rend="blackletterType">other</hi> not bound to obſerve his <hi rend="blackletterType">Promiſe</hi> neither, though never ſo ſolemnly made or ſworn. <hi>Part 1ſt. cap.</hi> 4. <hi>pag.</hi> 73.</p>
+               <p>By this then you ſee the ground whereon dependeth the righteous and lawful Depoſition and Chaſtiſement of wicked Princes, viz. <hi rend="blackletterType">Their fail<g ref="char:EOLhyphen"/>ing in their Oath and Promiſes, which they made at their firſt en<g ref="char:EOLhyphen"/>trance—</hi>Then is the <hi>Common-wealth</hi> not only <hi rend="blackletterType">free from all Oaths</hi> made by <hi rend="blackletterType">her</hi> of Obedience or <hi rend="blackletterType">Allegiance</hi> to ſuch <hi rend="blackletterType">unworthy</hi> Princes, but is <hi rend="blackletterType">bound</hi> moreover for ſaving the whole Body, to <hi rend="blackletterType">reſiſt,</hi> chaſten, or <hi rend="blackletterType">remove</hi> ſuch evil Heads, <hi rend="blackletterType">if ſhe be able,</hi> for that otherwiſe all would come to De<g ref="char:EOLhyphen"/>ſtruction, Ruine and publick Deſola<g ref="char:EOLhyphen"/>tion. <hi>part</hi> 1. <hi>cap.</hi> 4. <hi>pag.</hi> 77, 78.</p>
+            </div>
+            <div type="part">
+               <head>BRADSHAW</head>
+               <p>THE People of <hi rend="blackletterType">England,</hi> as they are thoſe that at the firſt (as other Coun<g ref="char:EOLhyphen"/>tries have done) did <hi rend="blackletterType">chuſe to them<g ref="char:EOLhyphen"/>ſelves this Form of Government</hi> e<g ref="char:EOLhyphen"/>ven for Juſtice ſake, that Juſtice might be admi<g ref="char:EOLhyphen"/>niſtred, that Peace might be preſerved; ſo Sir, <hi rend="blackletterType">they gave Laws to their Governours,</hi> accord<g ref="char:EOLhyphen"/>ing to which they ſhould Govern; and if thoſe Laws ſhould have prov'd inconvenient or prejudi<g ref="char:EOLhyphen"/>cial to the publick, they had a <hi rend="blackletterType">Power</hi> in them, and <hi rend="blackletterType">reſerved to themſelves to alter as they ſhall ſee cauſe. Kings Trial p.</hi> 64.</p>
+               <p>CHARLES STUART King of <hi>England;</hi> The Commons of <hi>England</hi> Aſſembled in Parliament, according to the <hi rend="blackletterType">fundamental Power that reſts in themſelves,</hi> have reſolved to bring you to <hi rend="blackletterType">Tryal</hi> and <hi rend="blackletterType">Iudgment. p.</hi> 29. If ſo be the King will go contrary to the end of his Government, Sir he muſt underſtand that he is but an <hi rend="blackletterType">Officer of Truſt,</hi> and he ought to diſcharge that Truſt, and they are to take Order for the <hi rend="blackletterType">Animadverſion and Puniſhment of ſuch an Offending Gover. p.</hi> 65.</p>
+               <p>Sir, Parliaments were ordained for that purpoſe, to redreſs the Grievances of the People. And then, Sir, the <hi>Scripture</hi> ſays, <hi>They that know their Maſters will and do it not,</hi> what follows? <hi rend="blackletterType">The Law is your Maſter, the Acts of Parliament.</hi> pag. 66, 67.</p>
+               <p>This we know to be Law, <hi>Rex habet ſuperiorem, Deum &amp; Legem, etiam &amp; Curiam,</hi> and ſo ſays the ſame Author; and truly Sir, he makes bold to go a little further, <hi>Debent ei ponere fraenum, <hi rend="blackletterType">They ought to bridle him.</hi>
+                  </hi> pag. 65.</p>
+               <p>That the ſaid <hi>Charles Stuart</hi> being <hi rend="blackletterType">admitted</hi> King of <hi>England,</hi> and therein <hi rend="blackletterType">truſted</hi> with a <hi rend="blackletterType">li<g ref="char:EOLhyphen"/>mitted</hi> Power. <hi>Vid Char. p.</hi> 30.</p>
+               <p>The Houſe of Commons, the <hi rend="blackletterType">Supream</hi> Au<g ref="char:EOLhyphen"/>thority and Juriſdiction of the Kingdom. <hi>pag.</hi> 48. Which Authority requires you, in the name of the <hi rend="blackletterType">People</hi> of <hi rend="blackletterType">England,</hi> of which you are <hi rend="blackletterType">Ele<g ref="char:EOLhyphen"/>cted</hi> King, to anſwer them, <hi>pag.</hi> 36. Sir you may not Demur the Juriſdiction of the Court—they ſit here by the Authority of the <hi>Commons</hi> of <hi>En<g ref="char:EOLhyphen"/>gland;</hi> and all your <hi rend="blackletterType">Predeceſſors</hi> and <hi rend="blackletterType">you</hi> are <hi rend="blackletterType">re<g ref="char:EOLhyphen"/>ſponſible to them. pag</hi> 44.</p>
+               <p>For there is a <hi>Contract</hi> and <hi>Bargain</hi> between the <hi rend="blackletterType">King</hi> and his <hi rend="blackletterType">People,</hi> and your Oath is taken, and certainly Sir, the Bond is reciprocal.—Sir, <hi rend="blackletterType">if this Bond be once broken, farewel Sove<g ref="char:EOLhyphen"/>raignty. pag.</hi> 72.</p>
+               <p>Sir, though you have it by Inheritance in the way that is ſpoken of, yet it muſt not be denied that your Office was an Office of <hi rend="blackletterType">Truſt:</hi> Now Sir, if it be an Office of Inheritance, as you ſpeak of your <hi>Title</hi> by <hi>Deſient,</hi> let all men know that great Offices are <hi rend="blackletterType">ſeizable</hi> and <hi rend="blackletterType">forfeitable,</hi> as if you had it but for a year and for your <hi>Life, p.</hi> 73.</p>
+               <p>And Sir, the People of <hi>England</hi> cannot be ſo far wanting to themſelves, which God having dealt ſo miraculouſly and gloriouſly for, <hi rend="blackletterType">they having Power in their hands,</hi> and their <hi rend="blackletterType">Great Enemy,</hi> they muſt proceed to do <hi rend="blackletterType">Iuſtice</hi> to themſelves and to <hi rend="blackletterType">You. p.</hi> 75.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>SIDNEY</hi> and other of <hi>The True-Protestant Party.</hi>
+               </head>
+               <p>GOD hath left Nations unto the Liberty of <hi rend="blackletterType">ſetting up</hi> ſuch Governments as <hi rend="blackletterType">beſt pleaſed themſelves.</hi>
+               </p>
+               <p>The Right and Power of Magiſtrates in every Country, was that which the <hi>Laws</hi> of that Country made it to be, <hi>Sidn.</hi> Pap. <hi>p.</hi> 2.</p>
+               <p>
+                  <hi>St. Peter</hi> 1 <hi>Pet.</hi> 2. 13, 14. ſtiles <hi>Kings,</hi> as well as the Governours under him, <hi>the Ordinance of Man,</hi> which cannot have any other Sence, <hi rend="blackletterType">but that Men make them and give them their Pow<g ref="char:EOLhyphen"/>ers: Hunts poſtſc. p.</hi> 37. By all which it is evident; <hi rend="blackletterType">That the Succeſſion to the Crown is the Peoples Right.</hi> And though the Succeſſion to the Crown is <hi rend="blackletterType">Hereditary,</hi> becauſe <hi rend="blackletterType">the People ſo appointed it; would</hi> have it ſo, or <hi rend="blackletterType">conſent<g ref="char:EOLhyphen"/>ed</hi> to have it ſo; yet in a <hi rend="blackletterType">particular</hi> Caſe for the ſaving the Nation, <hi rend="blackletterType">The whole Line and Mo<g ref="char:EOLhyphen"/>narchy it ſelf may be altered,</hi> by the <hi rend="blackletterType">unlimi<g ref="char:EOLhyphen"/>ted</hi> Power of the <hi rend="blackletterType">Legiſlative</hi> Authority. <hi>Hunts Poſtſc. pag.</hi> 43. Some Men will talk as if they be<g ref="char:EOLhyphen"/>lieved themſelves, <hi>That the Legiſlative Power is in the King, <hi rend="blackletterType">when no King of</hi>
+                  </hi> England <hi rend="blackletterType">yet ever pretended to it.</hi> A <hi rend="blackletterType">Legiſlative</hi> Authority is neceſſary to every Government, and therefore we ought not to want it, and therefore <hi rend="blackletterType">Parliaments,</hi> in which our Government hath placed the mak<g ref="char:EOLhyphen"/>ing of Laws, cannot be long diſcontinued. <hi>Hunts Postſc. p.</hi> 28.</p>
+               <p>BRACTON ſaith that the King hath <hi>three</hi> Su<g ref="char:EOLhyphen"/>periors, to wit, <hi>Deum, Legem &amp; Parliamentum;</hi> that is, the Power Originally in the People of <hi>En<g ref="char:EOLhyphen"/>gland</hi> is Delegated unto the <hi rend="blackletterType">Parliament. Sidn. Tryal</hi> p. 23.</p>
+               <p>All Government is founded in <hi rend="blackletterType">Truſt,</hi> and ſet<g ref="char:EOLhyphen"/>tled in ſuch a Perſon, or limited to ſuch a <hi>Family,</hi> for the ſafety and advantage of the People, as well as of the Ruler.</p>
+               <p>It is remarkable that there was never a Con<g ref="char:EOLhyphen"/>veyance of the Crown of <hi>England</hi> to any Perſon, but upon the <hi rend="blackletterType">tacit Concurrence,</hi> and with the <hi rend="blackletterType">Virtual</hi> or Implicite <hi rend="blackletterType">Conſent</hi> of the <hi>People.</hi> And therefore anciently before an King of <hi>England</hi> was actually <hi>Crown'd,</hi> the <hi>People</hi> being firſt acquaint<g ref="char:EOLhyphen"/>ed with the Day appointed for that <hi>Solemnity,</hi> were <hi>three</hi> ſeveral times publickly asked, whether they would have ſuch a Perſon to rule over them. <hi>Let. from Gentl. in the City concerning</hi> D. Y. pag. 13, 14.</p>
+               <p>Thoſe Laws were to be obſerv'd, and the Oaths taken by them, having the force of a <hi rend="blackletterType">Contract</hi> between Magi<g ref="char:EOLhyphen"/>ſtrate and People, could not be <hi rend="blackletterType">violated</hi> without danger of <hi rend="blackletterType">diſſolving the whole Fabrick. Sidn. Pap.</hi> pag. 2.</p>
+               <p>If he doth not like his condition, he may <hi rend="blackletterType">Renounce</hi> the <hi>Crown;</hi> but if he receive it upon that Condition (as all <hi>Ma<g ref="char:EOLhyphen"/>giſtrates</hi> do the Power they receive) and ſwear to perform it, he muſt expect that the performance will be exacted, or <hi rend="blackletterType">revenge taken by thoſe he hath betrayed. Sid.</hi> Try. p. 23.</p>
+               <p>I will hope there are very few in this Nation ſo ill inſtru<g ref="char:EOLhyphen"/>cted, that do not think it in the Power of the People to <hi rend="blackletterType">depoſe</hi> a Prince, who really undertakes to <hi rend="blackletterType">alienate</hi> his Kingdom, or that really Acts the <hi rend="blackletterType">Deſtruction</hi> or the <hi rend="blackletterType">Vniverſal Calamity</hi> of his People. <hi>Great conſid. relating to</hi> D. Y. <hi>conſider'd</hi> p. 6.</p>
+               <p>
+                  <hi>To give every one his due,</hi> is to adminiſter Defence to the Innocent, and by Authority of Law to <hi rend="blackletterType">ſubdue</hi> the <hi rend="blackletterType">Ag<g ref="char:EOLhyphen"/>greſſors</hi> of Mankind, <hi rend="blackletterType">how great and mighty ſoever they be, Fiat juſtitia</hi> therefore. <hi>Id. Pag.</hi> 16.</p>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
